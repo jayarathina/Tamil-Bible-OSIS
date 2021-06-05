@@ -10,7 +10,7 @@ The download contains OSIS file and SWORD module. This can be used in any bible 
 * Red Letter Encoded
 
 ## Future
-* Footnotes and Cross reference support
+* Footnotes and Cross reference support will be implemented in the future
 
 ## Note:
 * This project does NOT have libraries to convert OSIS into a SWORD module. Only the result is placed [here](Output/TAMCT-CE.zip). To know more about converting see: [Osis2mod](https://wiki.crosswire.org/Osis2mod) Library.
