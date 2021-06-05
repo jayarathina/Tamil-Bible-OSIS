@@ -58,7 +58,6 @@ class MySQLtoOSIS
         $ele->setAttribute("type", "OSIS");
 
         for ($i = 1; $i <= 75; $i ++) {
-
             if ($i !== 46) {
                 $eleBk = $this->getBook($i);
                 $osisText->appendChild($eleBk);
@@ -101,7 +100,7 @@ class MySQLtoOSIS
                     $osis->removeChild($temp);
                 }
             }
-            // break; // <<---Book Break
+            //break; // <<---Book Break
         }
         echo $this->xml->saveXML();
     }
@@ -121,7 +120,7 @@ class MySQLtoOSIS
         $div->appendChild($this->xml->importNode($introTxt, true));
 
         $startChapter = intval($bkID !== 44);
-        //$startChapter = 6;
+        //$startChapter = 3;
         $endChapter = $this->current_book_dat[$bkID]['totalChapters'];
 
         for ($i = $startChapter; $i <= $endChapter; $i ++) {
@@ -214,14 +213,19 @@ class MySQLtoOSIS
             if ($ver_txt === 'Same as above') {
                 continue;
             }
+            
+            // echo $ver_txt . "\r\n";
+            
 
             /* RED LETTER */
             $ver_txt = $redLetter->colorRedLetter($ver_txt, $key);
 
-            $this->SwapConsecutiveCharacters(BLIB_RED_LTR_START, BLIB_POEM1_START, $ver_txt);
-            $this->SwapConsecutiveCharacters(BLIB_RED_LTR_START, BLIB_POEM2_START, $ver_txt);
-            $this->SwapConsecutiveCharacters(BLIB_POEM1_END, BLIB_RED_LTR_END, $ver_txt);
-            $this->SwapConsecutiveCharacters(BLIB_POEM2_END, BLIB_RED_LTR_END, $ver_txt);
+            $this->SwapConsecutiveCharacters(BLIB_POEM1_START, BLIB_RED_LTR_START, $ver_txt);
+            $this->SwapConsecutiveCharacters(BLIB_POEM2_START, BLIB_RED_LTR_START, $ver_txt);
+            $this->SwapConsecutiveCharacters(BLIB_RED_LTR_END, BLIB_POEM1_END, $ver_txt);
+            $this->SwapConsecutiveCharacters(BLIB_RED_LTR_END, BLIB_POEM2_END, $ver_txt);
+            
+            // echo $ver_txt . "\r\n";
 
             /* VERSE TAG */
             $ver_txt = $this->setVerseTag($ver_txt, $key);
@@ -244,7 +248,7 @@ class MySQLtoOSIS
 
                 $current_para_txt .= $paraT[0];
                 $current_para_txt = $this->finalizeParaTxt($current_para_txt, $key);
-
+                
                 // Append current text and close para
                 $frag = $this->xml->createDocumentFragment();
                 $frag->appendXML($current_para_txt);
@@ -264,7 +268,6 @@ class MySQLtoOSIS
 
             if (strpos($ver_txt, BLIB_PARA_BK) !== false) {
                 // New Para
-
                 $paraT = explode(BLIB_PARA_BK, $ver_txt);
 
                 $cnt = 0;
@@ -306,18 +309,6 @@ class MySQLtoOSIS
     {
         // TODO remove unsupported formating tags.
         // All these are defined in bibleConfig.php. Should remove them as soon as support for them is given
-        $formatingTags = array(
-            '⁽',
-            '⁾',
-            '₍',
-            '₎',
-            '␢',
-            '⦃',
-            '⦄',
-            '⦅',
-            '⦆',
-            '§'
-        );
         $formatingTags = [
             BLIB_POEM1_START,
             BLIB_POEM1_END,
@@ -333,9 +324,12 @@ class MySQLtoOSIS
 
         $verseTxt = str_replace(BLIB_RED_LTR_END . BLIB_RED_LTR_START, "", $verseTxt);
         $verseTxt = str_replace("</lg><lg>", "", $verseTxt);
+        
+        $verseTxt = str_replace(BLIB_RED_LTR_START, "<q who='Jesus'  marker=''>", $verseTxt);
+        $verseTxt = str_replace(BLIB_RED_LTR_END, "</q>", $verseTxt);
 
-        $verseTxt = str_replace(BLIB_RED_LTR_START, "<q who='Jesus'  marker='' sID='red-$key' />", $verseTxt);
-        $verseTxt = str_replace(BLIB_RED_LTR_END, "<q eID='red-$key'/>", $verseTxt);
+        //$verseTxt = str_replace(BLIB_RED_LTR_START, "<q sID='$key' who='Jesus'  marker='' />", $verseTxt);
+        //$verseTxt = str_replace(BLIB_RED_LTR_END, "<q marker='' eID='$key'/>", $verseTxt);
 
         return $verseTxt;
     }
@@ -357,9 +351,7 @@ class MySQLtoOSIS
 
         $osisID = "$book_name.$chapter_num.$verse_num";
         $s_e_ID = "$book_name.$chapter_num.$verse_num";
-
-        $noteTxt = '';
-
+        
         if (0 === strpos($verseTxt, BLIB_VERSE_NUMBER_START)) { // Continuous Verses
                                                                 // TODO Support for running verses or continuous verses.
                                                                 // Eg. 1-2 This is not currently implemented because of the lack of implementaion in SWORD Engine.
@@ -368,15 +360,17 @@ class MySQLtoOSIS
                                                                 // Currently a footnote alone is added.
 
             $num_range = explode(BLIB_VERSE_NUMBER_END, $verseTxt); // Extract verse numbers
+            $verseTxt = $num_range[1];
+            
             $num_range[0] = ltrim($num_range[0], BLIB_VERSE_NUMBER_START); // Remove versenumber begining tag
 
             // add a note saying this is a merged verse. Will be removed when SWORD Engine supports verse range
-            $noteTxt = "<note osisRef='$osisID' osisID='$osisID' n='வ $num_range[0]'>வசனங்கள் $num_range[0]</note>";
-            $verseTxt = $num_range[1];
-
+            $verseTxt = "<note osisRef='$osisID' osisID='$osisID' n='Ver. $num_range[0]'>வசனங்கள் $num_range[0]</note>$verseTxt";
             $num_range = $num_range[0];
         }
 
+
+        
         $verseTxt = BLIB_VRS_START . $verseTxt . BLIB_VRS_END;
 
         $this->SwapConsecutiveCharacters(BLIB_PARA_BK, BLIB_VRS_END, $verseTxt);
@@ -391,13 +385,15 @@ class MySQLtoOSIS
 
         $verse_start = "<verse osisID='$osisID' sID='$s_e_ID' n='$num_range' />";
         $verse_end = "<verse eID='$s_e_ID' n='$num_range' />";
+        
+        //TODO Proper footnote and crossreference should be implemented
 
         $verseTxt = str_replace(BLIB_VRS_START, $verse_start, $verseTxt);
         $verseTxt = str_replace(BLIB_VRS_END, $verse_end, $verseTxt);
 
         return $verseTxt;
     }
-
+    
     /**
      * Swaps the positions of two consecutive Characters ab -> ba within a string.
      *
