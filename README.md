@@ -3,7 +3,7 @@ Generates Tamil Catholic Bible in [OSIS format](http://crosswire.org/osis/). Thi
 
 The aim is to generate OSIS format to aid the creation of a [A SWORD module](https://www.crosswire.org/sword/develop/swordmodule/)
 
-The download contains OSIS file and SWORD module. This can be used in any bible application that supports A SWORD module. We recomend [AndBible](https://andbible.github.io) for Android and [Xiphos] https://xiphos.org for Windows and Linux OS. A list of applications that support SWORD Modules can be found [here](https://www.crosswire.org/applications/).
+The download contains OSIS file and SWORD module. This can be used in any bible application that supports A SWORD module. We recomend [AndBible](https://andbible.github.io) for Android. A list of applications that support SWORD Modules can be found [here](https://www.crosswire.org/applications/).
 
 ## Features
 * Poetic Verse divisions
