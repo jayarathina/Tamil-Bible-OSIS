@@ -4,6 +4,6 @@
   manifestUrl: "https://jayarathina.github.io/Tamil-Bible-OSIS/manifest.json",
   type: "sword-https",
   host: "andbible.github.io",
-  catalogDirectory: "/data/andbible/test",
+  catalogDirectory: "/modules",
   packageDirectory: "/zip"
 }
