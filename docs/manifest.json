@@ -3,7 +3,7 @@
   description: "திருவிவிலியம் - பொது மொழிபெயர்ப்புத் திட்டத்தின் ஒரு முயர்சி",
   manifestUrl: "https://jayarathina.github.io/Tamil-Bible-OSIS/manifest.json",
   type: "sword-https",
-  host: "jayarathina.github.io/Tamil-Bible-OSIS",
+  host: "jayarathina.github.io",
   catalogDirectory: "/modules",
   packageDirectory: "/zip"
 }
