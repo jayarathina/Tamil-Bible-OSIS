@@ -57,16 +57,12 @@ class Utils{
         $CurrentBook_osisID = '';
         $returnVal = [];//Store Output
 
-        echo "Processing: " . $refString . "\r\n........\r\n";
-
         // Seperate References based on semicolon
         $refStringList = preg_split('/;/', $refString);
         $refStringList = array_map('trim', $refStringList);
 
 
         foreach ($refStringList as $refStringFrag) {
-            echo "Processing Frag: " . $refStringFrag . "\r\n...\r\n";
-
             $final_StringFrag = ''; //Stores the formated fragment for the current iteration
             $toTag_StringFrag = ''; //Stores the content that is to be tagged
 
@@ -90,11 +86,9 @@ class Utils{
             $refStringFrag = preg_replace('/\s+/', '', $refStringFrag);//Remove all spaces
 
             preg_match_all("/(\d+)([,:-]?)/u", $refStringFrag, $versesMatch, PREG_SET_ORDER);
-            print_r($versesMatch);
 
             $osisRefTemp = '';
             $CurrentChapter = '';
-
             foreach ($versesMatch as $value) {
                 //print_r($value);
                 switch ($value[2]) {
@@ -128,7 +122,7 @@ class Utils{
                         break;
 
                     default:
-                        die('What Symbol is this? "'.$value[2] . '"');
+                        die("What Symbol is this? $value[2]");
                         break;
                 }
             }

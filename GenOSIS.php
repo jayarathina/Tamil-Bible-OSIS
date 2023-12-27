@@ -562,12 +562,7 @@ class GenOSIS {
 
         $ut = new Utils();
 
-
-echo "==============\r\n" . $osisID . ":\r\n";
-
         $crossReferenceTag .= $ut->getReferenceTag($crossReferenceTxt[0]['note']);
-
-echo "==============\r\n\r\n";
         return $crossReferenceTag . "</note>";
     }
 
