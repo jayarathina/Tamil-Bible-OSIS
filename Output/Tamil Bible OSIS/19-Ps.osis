@@ -37,7 +37,7 @@
       </div>
       <chapter osisID="Ps.1">
         <p>
-          <title type="parallel">(<reference osisRef=".1-.41">1-41</reference>)</title>
+          <title type="parallel">(<reference osisRef="Ps.1-Ps.41">திபா 1-41</reference>)</title>
           <title type="sub">நற்பேறு பெற்றோர்</title>
           <lg>
             <l level="0"><verse osisID="Ps.1.1" sID="Ps.1.1" n="1"/>நற்பேறு பெற்றவர் யார்? – அவர்</l>
@@ -1394,7 +1394,7 @@
             <l level="0"><verse osisID="Ps.22.17" sID="Ps.22.17" n="17"/>என் எலும்புகளை எல்லாம்</l>
             <l level="1"> நான் எண்ணிவிடலாம்; அவர்கள்</l>
             <l level="0"> என்னை முறைத்துப் பார்க்கின்றார்கள்.<verse eID="Ps.22.17" n="17"/></l>
-            <l level="0"><verse osisID="Ps.22.18" sID="Ps.22.18" n="18"/><note type="crossReference" osisRef="Ps.22.18" osisID="Ps.22.18!crossReference"><reference osisRef="Matt.27.35">மத் 27:35</reference>; <reference osisRef="Mark.15.24">மாற் 15:24</reference>; <reference osisRef="Luke.23">லூக் 23</reference>; <reference osisRef="Luke.34">34</reference>; <reference osisRef="John.19.24">யோவா 19:24</reference></note>என் ஆடைகளைத் தங்களிடையே</l>
+            <l level="0"><verse osisID="Ps.22.18" sID="Ps.22.18" n="18"/><note type="crossReference" osisRef="Ps.22.18" osisID="Ps.22.18!crossReference"><reference osisRef="Matt.27.35">மத் 27:35</reference>; <reference osisRef="Mark.15.24">மாற் 15:24</reference>; <reference osisRef="Luke.23.34">லூக் 23:34</reference>; <reference osisRef="John.19.24">யோவா 19:24</reference></note>என் ஆடைகளைத் தங்களிடையே</l>
             <l level="1"> பங்கிட்டுக் கொள்கின்றனர்;</l>
             <l level="0"> என் உடையின்மேல் சீட்டுப் போடுகின்றனர்.<verse eID="Ps.22.18" n="18"/></l>
             <l level="0"><verse osisID="Ps.22.19" sID="Ps.22.19" n="19"/>நீரோ ஆண்டவரே! என்னை விட்டுத்</l>
@@ -2907,7 +2907,7 @@
       </chapter>
       <chapter osisID="Ps.42">
         <p>
-          <title type="parallel">(<reference osisRef=".42-.72">42-72</reference>)</title>
+          <title type="parallel">(<reference osisRef="Ps.42-Ps.72">திபா 42-72</reference>)</title>
           <title type="sub">நாடு கடத்தப்பட்டோர் மன்றாட்டு</title>
           <title type="parallel">(பாடகர் தலைவர்க்கு: கோராகியரின் அறப்பாடல்)</title>
           <lg>
@@ -2973,7 +2973,7 @@
       <chapter osisID="Ps.43">
         <p>
           <title type="sub">நாடு கடத்தப்பட்டோர் மன்றாட்டு</title>
-          <title type="parallel">(<reference osisRef="Ps.42">திபா 42</reference>)</title>
+          <title type="parallel">(<reference osisRef="Ps.42">திபா42</reference>)</title>
           <lg>
             <l level="0"><verse osisID="Ps.43.1" sID="Ps.43.1" n="1"/>கடவுளே, என் நேர்மையை </l>
             <l level="0"> நிலைநாட்டும்;</l>
@@ -5238,7 +5238,7 @@
       </chapter>
       <chapter osisID="Ps.73">
         <p>
-          <title type="sub">மூன்றாம் பகுதி</title>
+          <title type="parallel">(<reference osisRef="Ps.73-Ps.89">திபா 73-89</reference>)</title>
           <title type="sub">கடவுளின் நீதிமுறை</title>
           <title type="parallel">(ஆசாபின் புகழ்ப்பா)</title>
           <lg>
@@ -5757,7 +5757,7 @@
             <l level="1"> தொடர்ந்து பாவம் செய்தனர்;</l>
             <l level="0"> வறண்ட நிலத்தில்</l>
             <l level="1"> உன்னதருக்கு எதிராய் எழுந்தனர்.<verse eID="Ps.78.17" n="17"/></l>
-            <l level="0"><verse osisID="Ps.78.18" sID="Ps.78.18" n="18"/><note type="crossReference" osisRef="Ps.78.18" osisID="Ps.78.18!crossReference"><reference osisRef="Exod.16.2-Exod.16.15">விப 16:2-15</reference>; <reference osisRef="Num.11.4-Num.11.23">எண் 11:4-23</reference>; <reference osisRef="Num.31-Num.35">31-35</reference></note>தம் விருப்பம்போல் உணவு கேட்டு</l>
+            <l level="0"><verse osisID="Ps.78.18" sID="Ps.78.18" n="18"/><note type="crossReference" osisRef="Ps.78.18" osisID="Ps.78.18!crossReference"><reference osisRef="Exod.16.2-Exod.16.15">விப 16:2-15</reference>; <reference osisRef="Num.11.4-Num.11.23">எண் 11:4-23</reference>, <reference osisRef="Num.11.31-Num.11.35">31-35</reference></note>தம் விருப்பம்போல் உணவு கேட்டு</l>
             <l level="1"> வேண்டுமென்றே இறைவனைச்</l>
             <l level="0"> சோதித்தனர்.<verse eID="Ps.78.18" n="18"/></l>
             <l level="0"><verse osisID="Ps.78.19" sID="Ps.78.19" n="19"/>அவர்கள் கடவுளுக்கு எதிராக</l>
@@ -5869,7 +5869,7 @@
             <l level="1"> குருதியாக மாற்றினார்;</l>
             <l level="0"> எனவே, தங்கள் ஓடைகளினின்று</l>
             <l level="1"> அவர்களால் நீர் பருக இயலவில்லை.<verse eID="Ps.78.44" n="44"/></l>
-            <l level="0"><verse osisID="Ps.78.45" sID="Ps.78.45" n="45"/><note type="crossReference" osisRef="Ps.78.45" osisID="Ps.78.45!crossReference"><reference osisRef="Exod.8.1-Exod.8.6">விப 8:1-6</reference>; <reference osisRef="Exod.22-Exod.24">22-24</reference></note>அவர்களை விழுங்குமாறு</l>
+            <l level="0"><verse osisID="Ps.78.45" sID="Ps.78.45" n="45"/><note type="crossReference" osisRef="Ps.78.45" osisID="Ps.78.45!crossReference"><reference osisRef="Exod.8.1-Exod.8.6">விப 8:1-6</reference>, <reference osisRef="Exod.8.22-Exod.8.24">22-24</reference></note>அவர்களை விழுங்குமாறு</l>
             <l level="1"> அவர்கள்மீது ஈக்களையும்,</l>
             <l level="0"> அவர்களது நாட்டை அழிக்குமாறு</l>
             <l level="1"> தவளைகளையும் அவர் அனுப்பினார்.<verse eID="Ps.78.45" n="45"/></l>
@@ -6902,7 +6902,7 @@
       </chapter>
       <chapter osisID="Ps.90">
         <p>
-          <title type="sub">நான்காம் பகுதி</title>
+          <title type="parallel">(<reference osisRef="Ps.90-Ps.106">திபா 90-106</reference>)</title>
           <title type="sub">மனிதரின் நிலையாமை</title>
           <title type="parallel">(கடவுளின் அடியார் மோசேயின் மன்றாட்டு)</title>
           <lg>
@@ -8339,7 +8339,7 @@
       </chapter>
       <chapter osisID="Ps.107">
         <p>
-          <title type="sub">ஐந்தாம் பகுதி</title>
+          <title type="parallel">(<reference osisRef="Ps.107-Ps.150">திபா 107-150</reference>)</title>
           <title type="sub">கடவுளின் கருணையைப் புகழ்தல்</title>
           <lg>
             <l level="0"><verse osisID="Ps.107.1" sID="Ps.107.1" n="1"/><note type="crossReference" osisRef="Ps.107.1" osisID="Ps.107.1!crossReference"><reference osisRef="1Chr.16.34">1 குறி 16:34</reference>; <reference osisRef="2Chr.5.13">2 குறி 5:13</reference>; <reference osisRef="2Chr.7.3">7:3</reference>; <reference osisRef="Ezra.3.11">எஸ்ரா 3:11</reference>; <reference osisRef="Ps.100.5">திபா 100:5</reference>; <reference osisRef="Ps.106.1">106:1</reference>; <reference osisRef="Ps.118.1">118:1</reference>; <reference osisRef="Ps.136.1">136:1</reference>; <reference osisRef="Jer.33.11">எரே 33:11</reference></note>ஆண்டவருக்கு</l>

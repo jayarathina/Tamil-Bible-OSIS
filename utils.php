@@ -71,6 +71,7 @@ class Utils{
                 $refStringFrag = str_replace('காண். ', '', $refStringFrag);
             }
 
+            $abbrKey = '';
             //Process Book Name
             if(preg_match('/^([1-3 ]*[\p{Tamil}\(\) ]+)\s*(.*)/u', $refStringFrag, $matches) === 1){
                 
