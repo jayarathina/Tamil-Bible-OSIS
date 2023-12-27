@@ -7,7 +7,7 @@ const BLIB_FOOTNOTE = "t_footnotes";
 const BLIB_REDLTR = "t_redletter";
 const BLIB_HDR = "t_verseheaders";
 const BLIB_VRS = "t_verses";
-const BLIB_VIEW = "mybibleview";
+const BLIB_VIEW = "t_mybibleview";
 
 // Tags in Database
 const BLIB_BREAK_PT = '§';
@@ -284,7 +284,7 @@ const BIB_ALL_BKS = [
     42 => [
         'totalChapters' => '10',
         'osisID' => 'EsthGr', // AddEsth
-        'tn_abbr' => 'எஸ் [கி]',
+        'tn_abbr' => 'எஸ் (கி)',
         'tn_name' => 'எஸ்தர் [கி]'
     ],
     43 => [
@@ -309,7 +309,7 @@ const BIB_ALL_BKS = [
     46 => [
         'totalChapters' => '3',
         'osisID' => 'AddDan',
-        'tn_abbr' => 'தானி [இ]',
+        'tn_abbr' => 'தானி (இ)',
         'tn_name' => 'தானியேல் [இ]'
     ],
     47 => [
