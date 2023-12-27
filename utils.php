@@ -94,9 +94,6 @@ class Utils{
 
             $osisRefTemp = '';
             $CurrentChapter = '';
-            echo "~~~~~~~~~~~~~~~~~\r\n\r\nProcessing Frag: " . $refStringFrag . "\r\n...\r\n";
-            echo "final_StringFrag : " . $final_StringFrag  . "\r\n...\r\n";
-            echo "toTag_StringFrag: " . $toTag_StringFrag . "\r\n...\r\n";
 
             foreach ($versesMatch as $value) {
                 //print_r($value);
@@ -104,16 +101,13 @@ class Utils{
                     case ':':
                         $toTag_StringFrag .= $value[0];
                         $CurrentChapter = $value[1];
-                        echo "final_StringFrag : " . $final_StringFrag  . "\r\n...\r\n";
-                        echo "toTag_StringFrag: " . $toTag_StringFrag . "\r\n...\r\n";
                         break;
+
                     case '-':
                         $toTag_StringFrag .= $value[0];
                         $osisRefTemp .= "$CurrentBook_osisID.$CurrentChapter.$value[0]";
-                        echo "final_StringFrag : " . $final_StringFrag  . "\r\n...\r\n";
-                        echo "toTag_StringFrag: " . $toTag_StringFrag . "\r\n...\r\n";
-
                         break;
+
                     case ',':
                     case '':
                         $toTag_StringFrag .= $value[1];
@@ -131,10 +125,6 @@ class Utils{
                         $final_StringFrag .= "<reference osisRef='$osisRefTemp'>$toTag_StringFrag</reference>$value[2] ";
 
                         $osisRefTemp = $toTag_StringFrag ='';
-
-                        echo "final_StringFrag : " . $final_StringFrag  . "\r\n...\r\n";
-                        echo "toTag_StringFrag: " . $toTag_StringFrag . "\r\n...\r\n";
-                        # code...
                         break;
 
                     default:
