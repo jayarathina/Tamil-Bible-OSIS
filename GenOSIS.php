@@ -436,10 +436,9 @@ class GenOSIS {
 
         $returnTitle = '';
         foreach ($hdr as $title) {
-            $match = [];
-            if (preg_match('/\(([^\)]+)\)/u', $title, $match)) {
+            if (preg_match('/(.*)\(([^\)]+)\)(.*)/u', $title, $match)) {
                 // if there is a bracket, it is probably bible reference.
-                $title = '(' . $ut->getReferenceTag($match[1]) . ')';
+                $title = $match[1].'(' . $ut->getReferenceTag($match[2]) . ')'.$match[3];
                 $returnTitle .= "<title type='parallel'>$title</title>";
             } else {
                 $returnTitle .= "<title type='sub'>$title</title>";
