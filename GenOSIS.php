@@ -9,7 +9,7 @@ include_once 'utils.php';
 include_once 'lib/redletter_osis.php';
 
 class GenOSIS {
-    protected $database, $outputPath, $xml, $current_book_dat = BIB_ALL_BKS;
+    protected $database, $outputPath, $xml, $current_book_dat;
 
     function __construct($opPath) {
         $this->database = new medoo([
@@ -286,7 +286,6 @@ class GenOSIS {
             if (strpos($ver_txt, BLIB_PARA_BK) !== false) {
                 // New Para
                 $paraT = explode(BLIB_PARA_BK, $ver_txt);
-
                 $cnt = 0;
                 do {
                     $current_para_txt .= $paraT[$cnt];
@@ -358,13 +357,13 @@ class GenOSIS {
      * @return string
      */
     function setVerseTag($verseTxt, $verseID) {
-        $verse_num = $this->convertCode2BkCh($verseID);
+        $verse_frm = $this->convertCode2BkCh($verseID);
         $book_name = $this->current_book_dat['osis_id'];
-        $chapter_num = $verse_num[1];
-        $num_range = $verse_num = $verse_num[2];
+        $chapter_num = $verse_frm[1];
+        $num_range = $verse_frm = $verse_frm[2];
 
-        $osisID = "$book_name.$chapter_num.$verse_num";
-        $s_e_ID = "$book_name.$chapter_num.$verse_num";
+        $osisID = "$book_name.$chapter_num.$verse_frm";
+        $s_e_ID = "$book_name.$chapter_num.$verse_frm";
 
         if (0 === strpos($verseTxt, BLIB_VERSE_NUMBER_START)) { // Continuous Verses
             // TODO Support for running verses or continuous verses.
@@ -398,13 +397,38 @@ class GenOSIS {
         $this->SwapConsecutiveCharacters(BLIB_POEM2_END, BLIB_VRS_END, $verseTxt);
 
         $verse_start = "<verse osisID='$osisID' sID='$s_e_ID' n='$num_range' />";
-        $verse_start .= $this->formatCrossReference($verseID);
         $verse_end = "<verse eID='$s_e_ID' n='$num_range' />";
+
+
+        $verse_start .= $this->formatCrossReference($verseID);
+
+        $fnTxt = $this->formatFootnotes($verseID);
+        if(! empty($fnTxt) ){
+            foreach ($fnTxt as $key => &$value) {
+                $pattern = '/\*{'.($key+1).'}/';
+
+                $value = preg_replace('/\s*\*+\s*/', ' ', $value);
+                $verseTxt = preg_replace($pattern, $value, $verseTxt, 1, $count);
+
+                if($count == 1){
+                    $value = '';
+                }
+            }
+            $verse_end = implode( $fnTxt ) . $verse_end;
+        }
+
+        
 
         //TODO Proper footnote and crossreference should be implemented
 
         $verseTxt = str_replace(BLIB_VRS_START, $verse_start, $verseTxt);
         $verseTxt = str_replace(BLIB_VRS_END, $verse_end, $verseTxt);
+
+        //No Support in OSIS
+        $verseTxt = str_replace(BLIB_OUTDENT_START, '', $verseTxt);
+        $verseTxt = str_replace(BLIB_OUTDENT_END, '', $verseTxt);
+
+
 
         return $verseTxt;
     }
@@ -438,7 +462,7 @@ class GenOSIS {
         foreach ($hdr as $title) {
             if (preg_match('/(.*)\(([^\)]+)\)(.*)/u', $title, $match)) {
                 // if there is a bracket, it is probably bible reference.
-                $title = $match[1].'(' . $ut->getReferenceTag($match[2]) . ')'.$match[3];
+                $title = $match[1] . '(' . $ut->getReferenceTag($match[2]) . ')' . $match[3];
                 $returnTitle .= "<title type='parallel'>$title</title>";
             } else {
                 $returnTitle .= "<title type='sub'>$title</title>";
@@ -548,16 +572,27 @@ class GenOSIS {
         );
 
         if (empty($crossReferenceTxt)) return '';
-        
 
-        $verse_num = $this->convertCode2BkCh($verseID);
+
+        $verse_frm = $this->convertCode2BkCh($verseID);
         $book_name = $this->current_book_dat['osis_id'];
-        $chapter_num = $verse_num[1];
-        $verse_num = $verse_num[2];
+        $chapter_num = $verse_frm[1];
+        $verse_frm = $verse_frm[2];
 
-        $osisID = "$book_name.$chapter_num.$verse_num";
+        $osisID = "$book_name.$chapter_num.$verse_frm";
 
-        $crossReferenceTag = "<note type='crossReference' osisRef='$osisID' osisID='$osisID!crossReference'>";
+        $prefix = '';
+        if (intval($crossReferenceTxt[0]['id_to']) !== 0) {
+            $verse_to = $this->convertCode2BkCh($crossReferenceTxt[0]['id_to']);
+            if ($verse_to[1] !== $chapter_num) {
+                $prefix = "$chapter_num:$verse_frm-$verse_to[1]:$verse_to[2] ⇒ ";
+            } else {
+                $prefix = "$chapter_num:$verse_frm-$verse_to[2] ⇒ ";
+            }
+            $osisID .= "-$book_name.$verse_to[1].$verse_to[2]";
+        }
+
+        $crossReferenceTag = "<note type='crossReference' osisRef='$osisID' osisID='$osisID!crossReference'>$prefix";
 
         $ut = new Utils();
 
@@ -565,4 +600,41 @@ class GenOSIS {
         return $crossReferenceTag . "</note>";
     }
 
+    function formatFootnotes($verseID) {
+        $footnotesTxt_ = $this->database->select(
+            "t_footnotes",
+            [
+                'id_from', 'id_to', 'note'
+            ],
+            ['id_from[~]' => $verseID]
+        );
+
+        if (empty($footnotesTxt_)) return '';
+
+        $crossReferenceTag = [];//return variable
+
+        $verse_frm = $this->convertCode2BkCh($verseID);
+        $book_name = $this->current_book_dat['osis_id'];
+        $chapter_num = $verse_frm[1];
+        $verse_frm = $verse_frm[2];
+
+        $osisID = "$book_name.$chapter_num.$verse_frm";
+
+        foreach ($footnotesTxt_ as $footnotesTxt) {
+            $prefix = '';
+            if (intval($footnotesTxt['id_to']) !== 0) {
+                $verse_to = $this->convertCode2BkCh($footnotesTxt['id_to']);
+                if ($verse_to[1] !== $chapter_num) {
+                    $prefix = "$chapter_num:$verse_frm-$verse_to[1]:$verse_to[2] ⇒ ";
+                } else {
+                    $prefix = "$chapter_num:$verse_frm-$verse_to[2] ⇒ ";
+                }
+                $osisID .= "-$book_name.$verse_to[1].$verse_to[2]";
+            }
+    
+    
+            $crossReferenceTag [] = "<note osisRef='$osisID' osisID='$osisID!note'>$prefix {$footnotesTxt['note']}.</note>";
+        }
+        return $crossReferenceTag ;
+    }
 }

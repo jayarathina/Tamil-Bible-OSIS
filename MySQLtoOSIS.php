@@ -20,7 +20,6 @@ foreach (range($int_min, $int_max) as $bkNum) {
 }
 
 function progress_bar($done, $total, $info="", $width=50) {
-    return $info . "\r\n";
     $perc = round(($done * 100) / $total);
     $bar = round(($width * $perc) / 100);
     return sprintf("%s%%[%s>%s]%s\r", $perc, str_repeat("=", $bar), str_repeat(" ", $width-$bar), $info);

@@ -30,6 +30,9 @@ const BLIB_RED_LTR_END = '⦔';
 const BLIB_INDENT_START = '⦃';
 const BLIB_INDENT_END = '⦄';
 
+const BLIB_OUTDENT_START = '⦅'; // {o}
+const BLIB_OUTDENT_END = '⦆';
+
 const BLIB_VRS_START = '❰';
 const BLIB_VRS_END = '❱';
 

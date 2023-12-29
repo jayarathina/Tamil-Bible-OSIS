@@ -1,12 +1,12 @@
 <?php
+
 use Medoo\Medoo;
 
 include_once 'lib/medoo.php';
 
-class Utils{
+class Utils {
     protected $database, $current_book_dat = BIB_ALL_BKS;
-    function __construct()
-    {
+    function __construct() {
         $this->database = new medoo([
             'database_type' => 'mysql',
             'database_name' => 'liturgy_bible',
@@ -25,8 +25,7 @@ class Utils{
      *            Chapter Number
      * @return string - Formated book and chapter code
      */
-    public static function convertBkCh2Code($bk, $ch)
-    {
+    public static function convertBkCh2Code($bk, $ch) {
         $code = str_pad($bk, 2, '0', STR_PAD_LEFT) . str_pad($ch, 3, '0', STR_PAD_LEFT);
         return str_replace('00i', 'i', $code);
     }
@@ -42,20 +41,19 @@ class Utils{
      * @param string $refs
      *            - Well formated references. As seen in printed bible.
      */
-    public function getReferenceTag($refString)
-    {
+    public function getReferenceTag($refString) {
         // No digit is present, probably it is a subtitle
-        if (preg_match("/\d/u", $refString) === 0 ) {
-            return $refString;//No digit is found. So not a reference.
+        if (preg_match("/\d/u", $refString) === 0) {
+            return $refString; //No digit is found. So not a reference.
         }
-        
+
         //Get Tamil Bible Book Abbreviations
         $abbrList = array_column($this->current_book_dat, 'tn_abbr');
-        $abbrList = array_filter($abbrList);//Remove blank elements
+        $abbrList = array_filter($abbrList); //Remove blank elements
 
         // initialize book id - Required as subsequent verse reference may not mention book name. 
         $CurrentBook_osisID = '';
-        $returnVal = [];//Store Output
+        $returnVal = []; //Store Output
 
         // Seperate References based on semicolon
         $refStringList = preg_split('/;/', $refString);
@@ -66,25 +64,27 @@ class Utils{
             $final_StringFrag = ''; //Stores the formated fragment for the current iteration
             $toTag_StringFrag = ''; //Stores the content that is to be tagged
 
-            if(str_starts_with(  $refStringFrag, 'காண். ' )){//"காண்." should be the only non reference text within the cross reference
+            if (str_starts_with($refStringFrag, 'காண். ')) { //"காண்." should be the only non reference text within the cross reference
                 $final_StringFrag .= 'காண். ';
                 $refStringFrag = str_replace('காண். ', '', $refStringFrag);
             }
 
             $abbrKey = '';
             //Process Book Name
-            if(preg_match('/^([1-3 ]*[\p{Tamil}\(\) ]+)\s*(.*)/u', $refStringFrag, $matches) === 1){
-                
+            if (preg_match('/^([1-3 ]*[\p{Tamil}\(\) ]+)\s*(.*)/u', $refStringFrag, $matches) === 1) {
+
                 $toTag_StringFrag .= $matches[1];
                 $abbrKey = array_search(trim($matches[1]), $abbrList);
                 if ($abbrKey !== FALSE) {
                     $CurrentBook_osisID = $this->current_book_dat[$abbrKey + 1]['osisID'];
+                    if (empty($CurrentBook_osisID))
+                        die('Incorrect Book Name');
                 }
                 //Remove Book name from string
                 $refStringFrag = str_replace($matches[1], '', $refStringFrag);
-            }//if no matches found then retain previous book
+            } //if no matches found then retain previous book
 
-            $refStringFrag = preg_replace('/\s+/', '', $refStringFrag);//Remove all spaces
+            $refStringFrag = preg_replace('/\s+/', '', $refStringFrag); //Remove all spaces
 
             preg_match_all("/(\d+)([,:-]?)/u", $refStringFrag, $versesMatch, PREG_SET_ORDER);
 
@@ -109,25 +109,25 @@ class Utils{
 
                         $osisRefTemp .= "$CurrentBook_osisID.$CurrentChapter.$value[1]";
 
-                        if($CurrentChapter == ''){
-                            if($this->current_book_dat[$abbrKey + 1]['totalChapters'] == 1){
+                        if ($CurrentChapter == '') {
+                            if ($this->current_book_dat[$abbrKey + 1]['totalChapters'] == 1) {
                                 $osisRefTemp = str_replace('..', '.1.', $osisRefTemp);
-                            }else{
+                            } else {
                                 $osisRefTemp = str_replace('..', '.', $osisRefTemp);
                             }
                         }
 
                         $final_StringFrag .= "<reference osisRef='$osisRefTemp'>$toTag_StringFrag</reference>$value[2] ";
 
-                        $osisRefTemp = $toTag_StringFrag ='';
+                        $osisRefTemp = $toTag_StringFrag = '';
                         break;
 
                     default:
-                        die("What Symbol is this? $value[2]");
+                        die("This should ever occour: $value[2]");
                         break;
                 }
             }
-            $returnVal [] = trim($final_StringFrag);
+            $returnVal[] = trim($final_StringFrag);
         }
         return trim(implode('; ', $returnVal));
     }
