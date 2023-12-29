@@ -26,7 +26,7 @@
       <chapter osisID="Obad.1">
         <p>
           <lg>
-            <l level="0"><verse osisID="Obad.1.1" sID="Obad.1.1" n="1"/><note type="crossReference" osisRef="Obad.1.1" osisID="Obad.1.1!crossReference"><reference osisRef="Isa.3.5-Isa.3.17">எசா 3:5-17</reference>; <reference osisRef="Isa.63.1-Isa.63.6">63:1-6</reference>; <reference osisRef="Jer.49.7-Jer.49.22">எரே 49:7-22</reference>; <reference osisRef="Ezek.25.12-Ezek.25.14">எசே 25:12-14</reference>; <reference osisRef="Ezek.35.1-Ezek.35.15">35:1-15</reference>; <reference osisRef="Amos.1.11-Amos.1.12">ஆமோ 1:11-12</reference>; <reference osisRef="Mal.1.2-Mal.1.5">மலா 1:2-5</reference></note>ஓபதியா கண்ட காட்சி: தலைவராகிய</l>
+            <l level="0"><verse osisID="Obad.1.1" sID="Obad.1.1" n="1"/><note type="crossReference" osisRef="Obad.1.1-Obad.1.14" osisID="Obad.1.1-Obad.1.14!crossReference">1:1-14 ⇒ <reference osisRef="Isa.3.5-Isa.3.17">எசா 3:5-17</reference>; <reference osisRef="Isa.63.1-Isa.63.6">63:1-6</reference>; <reference osisRef="Jer.49.7-Jer.49.22">எரே 49:7-22</reference>; <reference osisRef="Ezek.25.12-Ezek.25.14">எசே 25:12-14</reference>; <reference osisRef="Ezek.35.1-Ezek.35.15">35:1-15</reference>; <reference osisRef="Amos.1.11-Amos.1.12">ஆமோ 1:11-12</reference>; <reference osisRef="Mal.1.2-Mal.1.5">மலா 1:2-5</reference></note>ஓபதியா கண்ட காட்சி: தலைவராகிய</l>
             <l level="1"> ஆண்டவர் ஏதோமைக் குறித்து</l>
             <l level="0"> இவ்வாறு சொல்கின்றார்:</l>
             <l level="1"> “விழித்தெழுங்கள்,</l>
@@ -221,7 +221,7 @@
             <l level="1"> நாடுகடத்தப்பட்டோர்</l>
             <l level="0"> நெகேபின் நகர்களைச்</l>
             <l level="1"> சொந்தமாக்கிக் கொள்வர்.<verse eID="Obad.1.20" n="20"/></l>
-            <l level="0"><verse osisID="Obad.1.21" sID="Obad.1.21" n="21"/>விடுதலை பெற்றோர்*</l>
+            <l level="0"><verse osisID="Obad.1.21" sID="Obad.1.21" n="21"/>விடுதலை பெற்றோர்<note osisRef="Obad.1.21" osisID="Obad.1.21!note"> ‘வெற்றி வீரர்கள்’ என்பது எபிரேய பாடம்.</note></l>
             <l level="1"> ஏசாவின் மலையை ஆளுவதற்குச்</l>
             <l level="0"> சீயோன் மலைமேல் ஏறுவர்;</l>
             <l level="1"> அரசாட்சி ஆண்டவருக்கே உரித்தாகும்.<verse eID="Obad.1.21" n="21"/></l>

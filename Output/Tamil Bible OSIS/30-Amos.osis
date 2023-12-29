@@ -43,14 +43,14 @@
           <title type="sub">வேற்றினத்தார்மீது ஆண்டவரின் தீர்ப்பு</title>
           <title type="sub">தமஸ்கு நகர்</title>
           <lg>
-            <l level="0"><verse osisID="Amos.1.3" sID="Amos.1.3" n="3"/><note type="crossReference" osisRef="Amos.1.3" osisID="Amos.1.3!crossReference"><reference osisRef="Isa.17.1-Isa.17.3">எசா 17:1-3</reference>; <reference osisRef="Jer.49.23-Jer.49.27">எரே 49:23-27</reference>; <reference osisRef="Zech.9.1">செக் 9:1</reference></note>ஆண்டவர் கூறுவது இதுவே:</l>
+            <l level="0"><verse osisID="Amos.1.3" sID="Amos.1.3" n="3"/><note type="crossReference" osisRef="Amos.1.3-Amos.1.5" osisID="Amos.1.3-Amos.1.5!crossReference">1:3-5 ⇒ <reference osisRef="Isa.17.1-Isa.17.3">எசா 17:1-3</reference>; <reference osisRef="Jer.49.23-Jer.49.27">எரே 49:23-27</reference>; <reference osisRef="Zech.9.1">செக் 9:1</reference></note>ஆண்டவர் கூறுவது இதுவே:</l>
             <l level="1"> தமஸ்கு நகரினர்</l>
             <l level="0"> எண்ணற்ற குற்றங்கள் செய்ததற்காக,</l>
             <l level="1"> நான் கொடுத்த தண்டனைத் தீர்ப்பை</l>
             <l level="0"> மாற்றவே மாட்டேன்.</l>
             <l level="1"> ஏனெனில், அவர்கள் கிலயாதை</l>
             <l level="0"> இரும்புக் கருவிகளைக் கொண்டு</l>
-            <l level="1"> போராடித்தார்கள்.<verse eID="Amos.1.3" n="3"/></l>
+            <l level="1"> போராடித்தார்கள்.<note osisRef="Amos.1.3" osisID="Amos.1.3!note"> ‘மூன்றும் நான்குமாகிய’ என்பது பொருள்.</note><verse eID="Amos.1.3" n="3"/></l>
             <l level="0"><verse osisID="Amos.1.4" sID="Amos.1.4" n="4"/>ஆதலால் அசாயேல் வீட்டின்மேல்</l>
             <l level="1"> தீ மூளச் செய்வேன்.</l>
             <l level="0"> அது பெனதாது கோட்டைகளை</l>
@@ -62,13 +62,13 @@
             <l level="0"> பிடித்திருப்பவனையும் ஒழிப்பேன்.</l>
             <l level="1"> ஆராமின் மக்கள்</l>
             <l level="0"> கீருக்கு நாடுகடத்தப்படுவார்கள்”</l>
-            <l level="1"> என்கிறார் ஆண்டவர்.<verse eID="Amos.1.5" n="5"/></l>
+            <l level="1"> என்கிறார் ஆண்டவர்.<note osisRef="Amos.1.5" osisID="Amos.1.5!note"> எபிரேயத்தில், ‘சிற்றின்ப இல்லம்’ என்பது பொருள்.</note><verse eID="Amos.1.5" n="5"/></l>
           </lg>
         </p>
         <p>
           <title type="sub">பெலிஸ்தியா நாடு</title>
           <lg>
-            <l level="0"><verse osisID="Amos.1.6" sID="Amos.1.6" n="6"/><note type="crossReference" osisRef="Amos.1.6" osisID="Amos.1.6!crossReference"><reference osisRef="Isa.14.29-Isa.14.31">எசா 14:29-31</reference>; <reference osisRef="Jer.47.1-Jer.47.7">எரே 47:1-7</reference>; <reference osisRef="Ezek.25.15-Ezek.25.17">எசே 25:15-17</reference>; <reference osisRef="Joel.3.4-Joel.3.8">யோவே 3:4-8</reference>; <reference osisRef="Zeph.2.4-Zeph.2.7">செப் 2:4-7</reference>; <reference osisRef="Zech.9.5-Zech.9.7">செக் 9:5-7</reference></note>ஆண்டவர் கூறுவது இதுவே:</l>
+            <l level="0"><verse osisID="Amos.1.6" sID="Amos.1.6" n="6"/><note type="crossReference" osisRef="Amos.1.6-Amos.1.8" osisID="Amos.1.6-Amos.1.8!crossReference">1:6-8 ⇒ <reference osisRef="Isa.14.29-Isa.14.31">எசா 14:29-31</reference>; <reference osisRef="Jer.47.1-Jer.47.7">எரே 47:1-7</reference>; <reference osisRef="Ezek.25.15-Ezek.25.17">எசே 25:15-17</reference>; <reference osisRef="Joel.3.4-Joel.3.8">யோவே 3:4-8</reference>; <reference osisRef="Zeph.2.4-Zeph.2.7">செப் 2:4-7</reference>; <reference osisRef="Zech.9.5-Zech.9.7">செக் 9:5-7</reference></note>ஆண்டவர் கூறுவது இதுவே:</l>
             <l level="1"> “காசா நகரினர் எண்ணற்ற</l>
             <l level="0"> குற்றங்கள் செய்ததற்காக</l>
             <l level="1"> நான் கொடுத்த தண்டனைத் தீர்ப்பை</l>
@@ -93,7 +93,7 @@
         <p>
           <title type="sub">தீர் நகர்</title>
           <lg>
-            <l level="0"><verse osisID="Amos.1.9" sID="Amos.1.9" n="9"/><note type="crossReference" osisRef="Amos.1.9" osisID="Amos.1.9!crossReference"><reference osisRef="Isa.23.1-Isa.23.18">எசா 23:1-18</reference>; <reference osisRef="Ezek.26.1-Ezek.28.19">எசே 26:1-28:19</reference>; <reference osisRef="Joel.3.4-Joel.3.8">யோவே 3:4-8</reference>; <reference osisRef="Zech.9.1-Zech.9.4">செக் 9:1-4</reference>; <reference osisRef="Matt.11.21-Matt.11.22">மத் 11:21-22</reference>; <reference osisRef="Luke.10.13-Luke.10.14">லூக் 10:13-14</reference></note>ஆண்டவர் கூறுவுது இதுவே:</l>
+            <l level="0"><verse osisID="Amos.1.9" sID="Amos.1.9" n="9"/><note type="crossReference" osisRef="Amos.1.9-Amos.1.10" osisID="Amos.1.9-Amos.1.10!crossReference">1:9-10 ⇒ <reference osisRef="Isa.23.1-Isa.23.18">எசா 23:1-18</reference>; <reference osisRef="Ezek.26.1-Ezek.28.19">எசே 26:1-28:19</reference>; <reference osisRef="Joel.3.4-Joel.3.8">யோவே 3:4-8</reference>; <reference osisRef="Zech.9.1-Zech.9.4">செக் 9:1-4</reference>; <reference osisRef="Matt.11.21-Matt.11.22">மத் 11:21-22</reference>; <reference osisRef="Luke.10.13-Luke.10.14">லூக் 10:13-14</reference></note>ஆண்டவர் கூறுவுது இதுவே:</l>
             <l level="1"> “தீர் நகரினர் எண்ணற்ற</l>
             <l level="0"> குற்றங்கள் செய்ததற்காக</l>
             <l level="1"> நான் கொடுத்த தண்டனைத் தீர்ப்பை</l>
@@ -112,7 +112,7 @@
         <p>
           <title type="sub">ஏதோம் நாடு</title>
           <lg>
-            <l level="0"><verse osisID="Amos.1.11" sID="Amos.1.11" n="11"/><note type="crossReference" osisRef="Amos.1.11" osisID="Amos.1.11!crossReference"><reference osisRef="Isa.34.5-Isa.34.17">எசா 34:5-17</reference>; <reference osisRef="Isa.63.1-Isa.63.6">63:1-6</reference>; <reference osisRef="Jer.49.7-Jer.49.22">எரே 49:7-22</reference>; <reference osisRef="Ezek.25.12-Ezek.25.14">எசே 25:12-14</reference>; <reference osisRef="Ezek.35.1-Ezek.35.15">35:1-15</reference>; <reference osisRef="Obad.1.1-Obad.1.14">ஒப 1-14</reference>; <reference osisRef="Mal.1.2-Mal.1.5">மலா 1:2-5</reference></note>ஆண்டவர் கூறுவது இதுவே:</l>
+            <l level="0"><verse osisID="Amos.1.11" sID="Amos.1.11" n="11"/><note type="crossReference" osisRef="Amos.1.11-Amos.1.12" osisID="Amos.1.11-Amos.1.12!crossReference">1:11-12 ⇒ <reference osisRef="Isa.34.5-Isa.34.17">எசா 34:5-17</reference>; <reference osisRef="Isa.63.1-Isa.63.6">63:1-6</reference>; <reference osisRef="Jer.49.7-Jer.49.22">எரே 49:7-22</reference>; <reference osisRef="Ezek.25.12-Ezek.25.14">எசே 25:12-14</reference>; <reference osisRef="Ezek.35.1-Ezek.35.15">35:1-15</reference>; <reference osisRef="Obad.1.1-Obad.1.14">ஒப 1-14</reference>; <reference osisRef="Mal.1.2-Mal.1.5">மலா 1:2-5</reference></note>ஆண்டவர் கூறுவது இதுவே:</l>
             <l level="1"> “ஏதோம் எண்ணற்ற</l>
             <l level="0"> குற்றங்கள் செய்ததற்காக</l>
             <l level="1"> நான் கொடுத்த தண்டனைத் தீர்ப்பை</l>
@@ -132,7 +132,7 @@
         <p>
           <title type="sub">அம்மோனியர் நாடு</title>
           <lg>
-            <l level="0"><verse osisID="Amos.1.13" sID="Amos.1.13" n="13"/><note type="crossReference" osisRef="Amos.1.13" osisID="Amos.1.13!crossReference"><reference osisRef="Jer.49.1-Jer.49.6">எரே 49:1-6</reference>; <reference osisRef="Ezek.21.28-Ezek.21.32">எசே 21:28-32</reference>; <reference osisRef="Ezek.25.1-Ezek.25.7">25:1-7</reference>; <reference osisRef="Zeph.2.8-Zeph.2.11">செப் 2:8-11</reference></note>ஆண்டவர் கூறுவது இதுவே:</l>
+            <l level="0"><verse osisID="Amos.1.13" sID="Amos.1.13" n="13"/><note type="crossReference" osisRef="Amos.1.13-Amos.1.15" osisID="Amos.1.13-Amos.1.15!crossReference">1:13-15 ⇒ <reference osisRef="Jer.49.1-Jer.49.6">எரே 49:1-6</reference>; <reference osisRef="Ezek.21.28-Ezek.21.32">எசே 21:28-32</reference>; <reference osisRef="Ezek.25.1-Ezek.25.7">25:1-7</reference>; <reference osisRef="Zeph.2.8-Zeph.2.11">செப் 2:8-11</reference></note>ஆண்டவர் கூறுவது இதுவே:</l>
             <l level="1"> “அம்மோன் மக்கள்</l>
             <l level="0"> எண்ணற்ற குற்றங்கள் செய்ததற்காக</l>
             <l level="1"> நான் கொடுத்த தண்டனைத் தீர்ப்பை</l>
@@ -162,7 +162,7 @@
         <p>
           <title type="sub">மோவாபு நாடு</title>
           <lg>
-            <l level="0"><verse osisID="Amos.2.1" sID="Amos.2.1" n="1"/><note type="crossReference" osisRef="Amos.2.1" osisID="Amos.2.1!crossReference"><reference osisRef="Isa.15.1-Isa.16.14">எசா 15:1-16:14</reference>; <reference osisRef="Isa.25.10-Isa.25.12">25:10-12</reference>; <reference osisRef="Jer.48.1-Jer.48.47">எரே 48:1-47</reference>; <reference osisRef="Ezek.25.8-Ezek.25.11">எசே 25:8-11</reference>; <reference osisRef="Zeph.2.8-Zeph.2.11">செப் 2:8-11</reference></note>ஆண்டவர் கூறுவது இதுவே: “மோவாபு</l>
+            <l level="0"><verse osisID="Amos.2.1" sID="Amos.2.1" n="1"/><note type="crossReference" osisRef="Amos.2.1-Amos.2.3" osisID="Amos.2.1-Amos.2.3!crossReference">2:1-3 ⇒ <reference osisRef="Isa.15.1-Isa.16.14">எசா 15:1-16:14</reference>; <reference osisRef="Isa.25.10-Isa.25.12">25:10-12</reference>; <reference osisRef="Jer.48.1-Jer.48.47">எரே 48:1-47</reference>; <reference osisRef="Ezek.25.8-Ezek.25.11">எசே 25:8-11</reference>; <reference osisRef="Zeph.2.8-Zeph.2.11">செப் 2:8-11</reference></note>ஆண்டவர் கூறுவது இதுவே: “மோவாபு</l>
             <l level="1"> எண்ணற்ற குற்றங்கள் செய்ததற்காக</l>
             <l level="0"> நான் கொடுத்த தண்டனைத் தீர்ப்பை</l>
             <l level="1"> மாற்றவே மாட்டேன்;</l>
@@ -635,7 +635,7 @@
             <l level="1"> ஒளியின் நாள் அன்று;</l>
             <l level="0"> அது இருள் கவிந்தது அல்லவா?</l>
             <l level="1"> வெளிச்சமில்லாத காரிருள் அல்லவா?<verse eID="Amos.5.20" n="20"/></l>
-            <l level="0"><verse osisID="Amos.5.21" sID="Amos.5.21" n="21"/><note type="crossReference" osisRef="Amos.5.21" osisID="Amos.5.21!crossReference"><reference osisRef="Isa.1.11-Isa.1.14">எசா 1:11-14</reference></note>“உங்கள் திருவிழாக்களை</l>
+            <l level="0"><verse osisID="Amos.5.21" sID="Amos.5.21" n="21"/><note type="crossReference" osisRef="Amos.5.21-Amos.5.22" osisID="Amos.5.21-Amos.5.22!crossReference">5:21-22 ⇒ <reference osisRef="Isa.1.11-Isa.1.14">எசா 1:11-14</reference></note>“உங்கள் திருவிழாக்களை</l>
             <l level="1"> நான் வெறுத்து அருவருக்கின்றேன்;</l>
             <l level="0"> உங்கள் வழிபாட்டுக் கூட்டங்களில்</l>
             <l level="1"> எனக்கு விருப்பமே இல்லை.<verse eID="Amos.5.21" n="21"/></l>
@@ -850,9 +850,9 @@
             <l level="1"> அமாவாசை எப்பொழுது முடியும்?</l>
             <l level="0"> கோதுமையை நல்ல விலைக்கு விற்பதற்கு</l>
             <l level="1"> ஓய்வுநாள் எப்பொழுது முடிவுறும்?</l>
-            <l level="0"> மரக்காலைச்* சிறியதாக்கி,</l>
+            <l level="0"> மரக்காலைச்<note osisRef="Amos.8.5" osisID="Amos.8.5!note"> "ஏப்பா" என்பது எபிரேய பாடம்.</note> சிறியதாக்கி,</l>
             <l level="1"> எடைக்கல்லைக் கனமாக்கி,</l>
-            <l level="0"> கள்ளத் தராசினால் மோசடி செய்யலாம்;<verse eID="Amos.8.5" n="5"/></l>
+            <l level="0"> கள்ளத் தராசினால் மோசடி செய்யலாம்;<note osisRef="Amos.8.5" osisID="Amos.8.5!note"> "செக்கேல்" என்பது எபிரேய பாடம்.</note><verse eID="Amos.8.5" n="5"/></l>
             <l level="0"><verse osisID="Amos.8.6" sID="Amos.8.6" n="6"/>வெள்ளிக்காசுக்கு ஏழைகளையும்</l>
             <l level="1"> இரு காலணிக்கு</l>
             <l level="0"> வறியோரையும் வாங்கலாம்;</l>
@@ -964,7 +964,7 @@
         <p>
           <title type="sub">இஸ்ரயேலின் மறுவாழ்வு</title>
           <lg>
-            <l level="0"><verse osisID="Amos.9.11" sID="Amos.9.11" n="11"/><note type="crossReference" osisRef="Amos.9.11" osisID="Amos.9.11!crossReference"><reference osisRef="Acts.15.16-Acts.15.18">திப 15:16-18</reference></note>“அந்நாள்களில்</l>
+            <l level="0"><verse osisID="Amos.9.11" sID="Amos.9.11" n="11"/><note type="crossReference" osisRef="Amos.9.11-Amos.9.12" osisID="Amos.9.11-Amos.9.12!crossReference">9:11-12 ⇒ <reference osisRef="Acts.15.16-Acts.15.18">திப 15:16-18</reference></note>“அந்நாள்களில்</l>
             <l level="1"> விழுந்துகிடக்கும்</l>
             <l level="0"> தாவீதின் கூடாரத்தை</l>
             <l level="1"> மீண்டும் உயர்த்துவேன்.</l>

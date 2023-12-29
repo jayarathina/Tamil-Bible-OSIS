@@ -72,7 +72,7 @@
         <p>
           <title type="sub">கடவுள் தேர்ந்து கொண்ட அரசர்</title>
           <lg>
-            <l level="0"><verse osisID="Ps.2.1" sID="Ps.2.1" n="1"/><note type="crossReference" osisRef="Ps.2.1" osisID="Ps.2.1!crossReference"><reference osisRef="Acts.4.25-Acts.4.26">திப 4:25-26</reference></note>வேற்றினத்தார் சீறி எழுவதேன்?</l>
+            <l level="0"><verse osisID="Ps.2.1" sID="Ps.2.1" n="1"/><note type="crossReference" osisRef="Ps.2.1-Ps.2.2" osisID="Ps.2.1-Ps.2.2!crossReference">2:1-2 ⇒ <reference osisRef="Acts.4.25-Acts.4.26">திப 4:25-26</reference></note>வேற்றினத்தார் சீறி எழுவதேன்?</l>
             <l level="1"> மக்களினங்கள் வீணாகச்</l>
             <l level="0"> சூழ்ச்சி செய்வதேன்?<verse eID="Ps.2.1" n="1"/></l>
             <l level="0"><verse osisID="Ps.2.2" sID="Ps.2.2" n="2"/>ஆண்டவருக்கும் அவர்தம் அருள் பொழிவு</l>
@@ -418,7 +418,7 @@
             <l level="1"> நீர் ஒரு பொருட்டாக எண்ணுவதற்கு</l>
             <l level="0"> அவர்கள் எம்மாத்திரம்?<verse eID="Ps.8.4" n="4"/></l>
             <l level="0"><verse osisID="Ps.8.5" sID="Ps.8.5" n="5"/>ஆயினும், அவர்களைக்</l>
-            <l level="1"> கடவுளாகிய* உமக்குச்</l>
+            <l level="1"> கடவுளாகிய<note osisRef="Ps.8.5" osisID="Ps.8.5!note"> ‘வானதூதர்க்கு’ என்றும் மொழிபெயர்க்கலாம்.</note> உமக்குச்</l>
             <l level="0"> சற்றே சிறியவர் ஆக்கியுள்ளீர்;</l>
             <l level="1"> மாட்சியையும் மேன்மையையும்</l>
             <l level="0"> அவர்களுக்கு முடியாகச் சூட்டியுள்ளீர்.<verse eID="Ps.8.5" n="5"/></l>
@@ -677,7 +677,7 @@
             <l level="1"> வறியோரின் பெருமூச்சையும் கேட்டு</l>
             <l level="0"> இப்பொழுதே எழுந்து வருகின்றேன்;</l>
             <l level="1"> அவர்கள் ஏங்குகின்றபடி</l>
-            <l level="0"> *அவர்களைப் பாதுகாப்பில் வைப்பேன்*’</l>
+            <l level="0"> <note osisRef="Ps.12.5" osisID="Ps.12.5!note"> … ‘அவன் அவர்கள் மீது சீறுகின்றான்’ என்பது எபிரேய பாடம்.</note>அவர்களைப் பாதுகாப்பில் வைப்பேன்*’</l>
             <l level="1"> என்கின்றார் ஆண்டவர்.<verse eID="Ps.12.5" n="5"/></l>
             <l level="0"><verse osisID="Ps.12.6" sID="Ps.12.6" n="6"/>ஆண்டவரின் வாக்குறுதிகள்</l>
             <l level="1"> கலப்பற்ற வாக்குறுதிகள்;</l>
@@ -734,7 +734,7 @@
           <title type="parallel">(பாடகர் தலைவர்க்கு: தாவீதுக்கு உரியது)</title>
           <title type="parallel">(<reference osisRef="Ps.53">திபா 53</reference>)</title>
           <lg>
-            <l level="0"><verse osisID="Ps.14.1" sID="Ps.14.1" n="1"/><note type="crossReference" osisRef="Ps.14.1" osisID="Ps.14.1!crossReference"><reference osisRef="Rom.3.10-Rom.3.12">உரோ 3:10-12</reference></note>‛கடவுள் இல்லை’ என அறிவிலிகள்</l>
+            <l level="0"><verse osisID="Ps.14.1" sID="Ps.14.1" n="1"/><note type="crossReference" osisRef="Ps.14.1-Ps.14.3" osisID="Ps.14.1-Ps.14.3!crossReference">14:1-3 ⇒ <reference osisRef="Rom.3.10-Rom.3.12">உரோ 3:10-12</reference></note>‛கடவுள் இல்லை’ என அறிவிலிகள்</l>
             <l level="1"> தம் உள்ளத்தில்</l>
             <l level="0"> சொல்லிக் கொள்கின்றனர்;</l>
             <l level="1"> அவர்கள் சீர்கெட்டு அருவருப்பான</l>
@@ -831,7 +831,7 @@
             <l level="1"> ஆண்டவரைப் போற்றுகின்றேன்;</l>
             <l level="0"> இரவில்கூட என் மனச்சான்று</l>
             <l level="1"> என்னை எச்சரிக்கின்றது.<verse eID="Ps.16.7" n="7"/></l>
-            <l level="0"><verse osisID="Ps.16.8" sID="Ps.16.8" n="8"/><note type="crossReference" osisRef="Ps.16.8" osisID="Ps.16.8!crossReference"><reference osisRef="Acts.2.25-Acts.2.28">திப 2:25-28</reference></note>ஆண்டவரை எப்போதும்</l>
+            <l level="0"><verse osisID="Ps.16.8" sID="Ps.16.8" n="8"/><note type="crossReference" osisRef="Ps.16.8-Ps.16.11" osisID="Ps.16.8-Ps.16.11!crossReference">16:8-11 ⇒ <reference osisRef="Acts.2.25-Acts.2.28">திப 2:25-28</reference></note>ஆண்டவரை எப்போதும்</l>
             <l level="1"> என் கண்முன் வைத்துள்ளேன்;</l>
             <l level="0"> அவர் என் வலப்பக்கம் உள்ளார்;</l>
             <l level="1"> எனவே, நான் அசைவுறேன்.<verse eID="Ps.16.8" n="8"/></l>
@@ -1448,7 +1448,7 @@
             <l level="1"> பிற இனத்தார்மீதும்</l>
             <l level="0"> அவர் ஆட்சி புரிகின்றார்.<verse eID="Ps.22.28" n="28"/></l>
             <l level="0"><verse osisID="Ps.22.29" sID="Ps.22.29" n="29"/>மண்ணின் செல்வர் யாவரும்</l>
-            <l level="1"> அவரைப் பணிவர்;*</l>
+            <l level="1"> அவரைப் பணிவர்;<note osisRef="Ps.22.29" osisID="Ps.22.29!note"> ‘உணவுண்டு அவரைப் பணிவர்’ என்பது எபிரேய பாடம்.</note></l>
             <l level="0"> புழுதிக்குள் இறங்குவோர் யாவரும்</l>
             <l level="1"> தம் உயிரைக் காத்துக்கொள்ளாதோரும்</l>
             <l level="0"> அவரை வணங்குவர்.<verse eID="Ps.22.29" n="29"/></l>
@@ -1522,7 +1522,7 @@
             <l level="0"> நேர்மையாளர் எனத் தீர்ப்புப் பெறுவார்.<verse eID="Ps.24.5" n="5"/></l>
             <l level="0"><verse osisID="Ps.24.6" sID="Ps.24.6" n="6"/>அவரை நாடுவோரின்</l>
             <l level="1"> தலைமுறையினர் இவர்களே:</l>
-            <l level="0"> *யாக்கோபின் கடவுளது முகத்தைத்*</l>
+            <l level="0"> <note osisRef="Ps.24.6" osisID="Ps.24.6!note"> … ‘யாக்கோபே! உனது முகத்தை’ என்பது எபிரேய பாடம்.</note>யாக்கோபின் கடவுளது முகத்தைத்*</l>
             <l level="1"> தேடுவோர் இவர்களே. (சேலா)<verse eID="Ps.24.6" n="6"/></l>
             <l level="0"><verse osisID="Ps.24.7" sID="Ps.24.7" n="7"/>வாயில்களே, உங்கள் நிலைகளை</l>
             <l level="1"> உயர்த்துங்கள்;</l>
@@ -1829,7 +1829,7 @@
           <title type="sub">புயல் நடுவே ஆண்டவரின் குரல்</title>
           <title type="parallel">(தாவீதின் புகழ்ப்பா)</title>
           <lg>
-            <l level="0"><verse osisID="Ps.29.1" sID="Ps.29.1" n="1"/><note type="crossReference" osisRef="Ps.29.1" osisID="Ps.29.1!crossReference"><reference osisRef="Ps.96.7-Ps.96.9">திபா 96:7-9</reference></note>இறைவனின் மைந்தரே!</l>
+            <l level="0"><verse osisID="Ps.29.1" sID="Ps.29.1" n="1"/><note type="crossReference" osisRef="Ps.29.1-Ps.29.2" osisID="Ps.29.1-Ps.29.2!crossReference">29:1-2 ⇒ <reference osisRef="Ps.96.7-Ps.96.9">திபா 96:7-9</reference></note>இறைவனின் மைந்தரே!</l>
             <l level="1"> மாட்சியையும் வலிமையையும்</l>
             <l level="0"> ஆண்டவருக்கு உரித்தாக்குங்கள்.</l>
             <l level="1"> ஆம்! ஆண்டவருக்கே </l>
@@ -1861,7 +1861,7 @@
             <l level="0"> ஆண்டவர் காதேசு பாலைவனத்தை</l>
             <l level="1"> நடுங்கச் செய்கின்றார்.<verse eID="Ps.29.8" n="8"/></l>
             <l level="0"><verse osisID="Ps.29.9" sID="Ps.29.9" n="9"/>ஆண்டவரின் குரல் கருவாலி மரங்களை</l>
-            <l level="1"> முறித்து விடுகின்றது*;</l>
+            <l level="1"> முறித்து விடுகின்றது<note osisRef="Ps.29.9" osisID="Ps.29.9!note"> ‘மானைக் கன்று ஈனச் செய்கிறது’ எனவும் பொருள்படும்.</note>;</l>
             <l level="0"> காடுகளை வெறுமை ஆக்குகின்றது;</l>
             <l level="1"> அவரது கோவிலில் உள்ள அனைவரும்</l>
             <l level="0"> ‛இறைவனுக்கு மாட்சி’ என்று</l>
@@ -1930,7 +1930,7 @@
             <l level="1"> களிநடனமாக மாற்றிவிட்டீர்;</l>
             <l level="0"> என் சாக்குத் துணியைக் களைந்துவிட்டு</l>
             <l level="1"> எனை மகிழ்ச்சியால் உடுத்தினீர்.<verse eID="Ps.30.11" n="11"/></l>
-            <l level="0"><verse osisID="Ps.30.12" sID="Ps.30.12" n="12"/>ஆகவே என் உள்ளம்*</l>
+            <l level="0"><verse osisID="Ps.30.12" sID="Ps.30.12" n="12"/>ஆகவே என் உள்ளம்<note osisRef="Ps.30.12" osisID="Ps.30.12!note"> ‘மாட்சி’ எனவும் பொருள்படும்.</note></l>
             <l level="1"> உம்மைப் புகழ்ந்து பாடும்;</l>
             <l level="0"> மௌனமாய் இராது;</l>
             <l level="1"> என் கடவுளாகிய ஆண்டவரே,</l>
@@ -2070,7 +2070,7 @@
           <title type="sub">பாவ அறிக்கையும் மன்னிப்பும்</title>
           <title type="parallel">(தாவீதின் அறப்பாடல்)</title>
           <lg>
-            <l level="0"><verse osisID="Ps.32.1" sID="Ps.32.1" n="1"/><note type="crossReference" osisRef="Ps.32.1" osisID="Ps.32.1!crossReference"><reference osisRef="Rom.4.7-Rom.4.8">உரோ 4:7-8</reference></note>எவரது குற்றம் மன்னிக்கப்பட்டதோ,</l>
+            <l level="0"><verse osisID="Ps.32.1" sID="Ps.32.1" n="1"/><note type="crossReference" osisRef="Ps.32.1-Ps.32.2" osisID="Ps.32.1-Ps.32.2!crossReference">32:1-2 ⇒ <reference osisRef="Rom.4.7-Rom.4.8">உரோ 4:7-8</reference></note>எவரது குற்றம் மன்னிக்கப்பட்டதோ,</l>
             <l level="1"> எவரது பாவம் மறைக்கப்பட்டதோ,</l>
             <l level="0"> அவர் பேறு பெற்றவர்.<verse eID="Ps.32.1" n="1"/></l>
             <l level="0"><verse osisID="Ps.32.2" sID="Ps.32.2" n="2"/>ஆண்டவர் எந்த மனிதரின்</l>
@@ -2343,7 +2343,7 @@
           <title type="sub">மானிடரின் தீய குணம்</title>
           <title type="parallel">(பாடகர் தலைவர்க்கு: ஆண்டவரின் ஊழியரான தாவீதுக்கு உரியது)</title>
           <lg>
-            <l level="0"><verse osisID="Ps.36.1" sID="Ps.36.1" n="1"/><note type="crossReference" osisRef="Ps.36.1" osisID="Ps.36.1!crossReference"><reference osisRef="Rom.3.18">உரோ 3:18</reference></note>*பொல்லாரின் உள்ளத்தில்*</l>
+            <l level="0"><verse osisID="Ps.36.1" sID="Ps.36.1" n="1"/><note type="crossReference" osisRef="Ps.36.1" osisID="Ps.36.1!crossReference"><reference osisRef="Rom.3.18">உரோ 3:18</reference></note><note osisRef="Ps.36.1" osisID="Ps.36.1!note"> … ‘என் உள்ளத்தில்’ என்பது எபிரேய பாடம்.</note>பொல்லாரின் உள்ளத்தில்*</l>
             <l level="1"> தீமையின் குரல்</l>
             <l level="0"> ஒலித்துக் கொண்டே இருக்கின்றது;</l>
             <l level="1"> அவர்களின் மனக்கண்களில்</l>
@@ -2769,7 +2769,7 @@
             <l level="0"> அவற்றை நான் எடுத்துரைக்க</l>
             <l level="1"> விரும்புவேனாகில்</l>
             <l level="0"> அவை எண்ணிலடங்கா.<verse eID="Ps.40.5" n="5"/></l>
-            <l level="0"><verse osisID="Ps.40.6" sID="Ps.40.6" n="6"/><note type="crossReference" osisRef="Ps.40.6" osisID="Ps.40.6!crossReference"><reference osisRef="Heb.10.5-Heb.10.7">எபி 10:5-7</reference></note>பலியையும் காணிக்கையையும்</l>
+            <l level="0"><verse osisID="Ps.40.6" sID="Ps.40.6" n="6"/><note type="crossReference" osisRef="Ps.40.6-Ps.40.8" osisID="Ps.40.6-Ps.40.8!crossReference">40:6-8 ⇒ <reference osisRef="Heb.10.5-Heb.10.7">எபி 10:5-7</reference></note>பலியையும் காணிக்கையையும்</l>
             <l level="1"> நீர் விரும்பவில்லை;</l>
             <l level="0"> எரிபலியையும் பாவம் போக்கும் பலியையும்</l>
             <l level="1"> நீர் கேட்கவில்லை;</l>
@@ -2924,7 +2924,7 @@
             <l level="0"><verse osisID="Ps.42.3" sID="Ps.42.3" n="3"/>இரவும் பகலும் என் கண்ணீரே</l>
             <l level="1"> எனக்கு உணவாயிற்று;</l>
             <l level="0"> ‛உன் கடவுள் எங்கே?’ என்று</l>
-            <l level="1"> என்னிடம் *தீயோர் கேட்கின்றனர்.*<verse eID="Ps.42.3" n="3"/></l>
+            <l level="1"> என்னிடம் <note osisRef="Ps.42.3" osisID="Ps.42.3!note"> … ‘அவன் கேட்கிறான்’ என்பது எபிரேய பாடம்.</note>தீயோர் கேட்கின்றனர்.*<verse eID="Ps.42.3" n="3"/></l>
             <l level="0"><verse osisID="Ps.42.4" sID="Ps.42.4" n="4"/>மக்கள் கூட்டத்தோடு சேர்ந்து பவனியாகக்</l>
             <l level="1"> கடவுளின் இல்லத்திற்குச் சென்றேனே!</l>
             <l level="0"> ஆர்ப்பரிப்பும் நன்றிப்பாடல்களும் முழங்க</l>
@@ -2973,7 +2973,7 @@
       <chapter osisID="Ps.43">
         <p>
           <title type="sub">நாடு கடத்தப்பட்டோர் மன்றாட்டு</title>
-          <title type="parallel">(<reference osisRef="Ps.42">திபா42</reference>)</title>
+          <title type="sub">திபா 42 இன் தொடர்ச்சி</title>
           <lg>
             <l level="0"><verse osisID="Ps.43.1" sID="Ps.43.1" n="1"/>கடவுளே, என் நேர்மையை </l>
             <l level="0"> நிலைநாட்டும்;</l>
@@ -3153,7 +3153,7 @@
             <l level="1"> மன்னர்தம் மாற்றாரின்</l>
             <l level="0"> நெஞ்சினிலே பாய்வன; மக்களெல்லாம்</l>
             <l level="1"> உம் காலடியில் வீழ்ந்திடுவர்.<verse eID="Ps.45.5" n="5"/></l>
-            <l level="0"><verse osisID="Ps.45.6" sID="Ps.45.6" n="6"/><note type="crossReference" osisRef="Ps.45.6" osisID="Ps.45.6!crossReference"><reference osisRef="Heb.1.8-Heb.1.9">எபி 1:8-9</reference></note>இறைவனே, என்றுமுளது</l>
+            <l level="0"><verse osisID="Ps.45.6" sID="Ps.45.6" n="6"/><note type="crossReference" osisRef="Ps.45.6-Ps.45.7" osisID="Ps.45.6-Ps.45.7!crossReference">45:6-7 ⇒ <reference osisRef="Heb.1.8-Heb.1.9">எபி 1:8-9</reference></note>இறைவனே, என்றுமுளது</l>
             <l level="1"> உமது அரியணை;</l>
             <l level="0"> உமது ஆட்சியின் செங்கோல்</l>
             <l level="1"> வளையாத செங்கோல்.<verse eID="Ps.45.6" n="6"/></l>
@@ -3408,7 +3408,7 @@
             <l level="1"> நாம் காண்கின்றோம் அன்றோ!</l>
             <l level="0"> அவர்கள் எல்லாருமே தத்தம் செல்வத்தைப்</l>
             <l level="1"> பிறருக்கு விட்டுச்செல்கின்றனர்.<verse eID="Ps.49.10" n="10"/></l>
-            <l level="0"><verse osisID="Ps.49.11" sID="Ps.49.11" n="11"/>கல்லறைகளே* அவர்களுக்கு</l>
+            <l level="0"><verse osisID="Ps.49.11" sID="Ps.49.11" n="11"/>கல்லறைகளே<note osisRef="Ps.49.11" osisID="Ps.49.11!note"> ‘உள்ளுறுப்புகளே’ என்பது எபிரேய பாடம்.</note> அவர்களுக்கு</l>
             <l level="1"> நிலையான வீடுகள்!</l>
             <l level="0"> அவையே எல்லாத் தலைமுறைக்கும்</l>
             <l level="1"> அவர்கள் குடியிருப்பு!</l>
@@ -3425,7 +3425,7 @@
             <l level="0"><verse osisID="Ps.49.14" sID="Ps.49.14" n="14"/>பலியாடுகளைப் போலவே அவர்களும்</l>
             <l level="1"> சாவுக்கெனக் குறிக்கப்பட்டுள்ளனர்;</l>
             <l level="0"> சாவே அவர்களின் மேய்ப்பன்;</l>
-            <l level="1"> *அவர்கள் நேரடியாகக்</l>
+            <l level="1"> <note osisRef="Ps.49.14" osisID="Ps.49.14!note"> … ‘நீதிமான்கள் வைகறையில் அவர்கள்மேல் வெற்றி கொள்வர்’ என்பது எபிரேய பாடம்.</note>அவர்கள் நேரடியாகக்</l>
             <l level="0"> கல்லறைக்குள் செல்வர்;*</l>
             <l level="1"> அப்பொழுது அவர்களது உருவம்</l>
             <l level="0"> மாய்ந்து போகும்;</l>
@@ -3714,7 +3714,7 @@
           <title type="parallel">(பாடகர் தலைவர்க்கு: ‘நோயுற்று’ என்ற மெட்டு; தாவீதின் அறப்பாடல்)</title>
           <title type="parallel">(<reference osisRef="Ps.14">திபா 14</reference>)</title>
           <lg>
-            <l level="0"><verse osisID="Ps.53.1" sID="Ps.53.1" n="1"/><note type="crossReference" osisRef="Ps.53.1" osisID="Ps.53.1!crossReference"><reference osisRef="Rom.3.10-Rom.3.12">உரோ 3:10-12</reference></note>‛கடவுள் இல்லை’ என</l>
+            <l level="0"><verse osisID="Ps.53.1" sID="Ps.53.1" n="1"/><note type="crossReference" osisRef="Ps.53.1-Ps.53.3" osisID="Ps.53.1-Ps.53.3!crossReference">53:1-3 ⇒ <reference osisRef="Rom.3.10-Rom.3.12">உரோ 3:10-12</reference></note>‛கடவுள் இல்லை’ என</l>
             <l level="1"> அறிவிலிகள் தம் உள்ளத்தில்</l>
             <l level="0"> சொல்லிக் கொள்கின்றனர்;</l>
             <l level="1"> அவர்களுள் சிலர் கெட்டு</l>
@@ -4755,7 +4755,7 @@
             <l level="1"> அவர்களை அழைத்து வருவேன்;</l>
             <l level="0"> ஆழ்கடலிலிருந்து அழைத்து வருவேன்.<verse eID="Ps.68.22" n="22"/></l>
             <l level="0"><verse osisID="Ps.68.23" sID="Ps.68.23" n="23"/>அப்பொழுது உன் கால்களை</l>
-            <l level="1"> இரத்தத்தில் தோய்ப்பாய்;*</l>
+            <l level="1"> இரத்தத்தில் தோய்ப்பாய்;<note osisRef="Ps.68.23" osisID="Ps.68.23!note"> ‘தோய்ப்பாய்’ என்பதற்குப் பதில் ‘உடைப்பாய்’ என்பது எபிரேய பாடம்.</note></l>
             <l level="0"> உன் நாய்கள் எதிரிகளிடம்</l>
             <l level="1"> தமக்குரிய பங்கைச் சுவைக்கும்’ </l>
             <l level="1"> என்று சொன்னார்.<verse eID="Ps.68.23" n="23"/></l>
@@ -4927,7 +4927,7 @@
             <l level="1"> நஞ்சைக் கலந்து கொடுத்தார்கள்;</l>
             <l level="0"> என் தாகத்துக்குக் காடியைக்</l>
             <l level="1"> குடிக்கக் கொடுத்தார்கள்.<verse eID="Ps.69.21" n="21"/></l>
-            <l level="0"><verse osisID="Ps.69.22" sID="Ps.69.22" n="22"/><note type="crossReference" osisRef="Ps.69.22" osisID="Ps.69.22!crossReference"><reference osisRef="Rom.11.9-Rom.11.10">உரோ 11:9-10</reference></note>அவர்களுடைய விருந்துகளே</l>
+            <l level="0"><verse osisID="Ps.69.22" sID="Ps.69.22" n="22"/><note type="crossReference" osisRef="Ps.69.22-Ps.69.23" osisID="Ps.69.22-Ps.69.23!crossReference">69:22-23 ⇒ <reference osisRef="Rom.11.9-Rom.11.10">உரோ 11:9-10</reference></note>அவர்களுடைய விருந்துகளே</l>
             <l level="1"> அவர்களுக்குக் கண்ணியாகட்டும்!</l>
             <l level="0"> அவர்களுடைய படையல் விருந்துகளே</l>
             <l level="1"> அவர்களுக்குப் பொறியாகட்டும்!<verse eID="Ps.69.22" n="22"/></l>
@@ -5745,7 +5745,7 @@
             <l level="1"> இரவு முழுவதும்</l>
             <l level="0"> நெருப்பின் ஒளியாலும்</l>
             <l level="1"> அவர்களை வழி நடத்தினார்.<verse eID="Ps.78.14" n="14"/></l>
-            <l level="0"><verse osisID="Ps.78.15" sID="Ps.78.15" n="15"/><note type="crossReference" osisRef="Ps.78.15" osisID="Ps.78.15!crossReference"><reference osisRef="Exod.17.1-Exod.17.7">விப 17:1-7</reference>; <reference osisRef="Num.20.2-Num.20.13">எண் 20:2-13</reference></note>பாலைநிலத்தில் பாறைகளைப் பிளந்தார்;</l>
+            <l level="0"><verse osisID="Ps.78.15" sID="Ps.78.15" n="15"/><note type="crossReference" osisRef="Ps.78.15-Ps.78.16" osisID="Ps.78.15-Ps.78.16!crossReference">78:15-16 ⇒ <reference osisRef="Exod.17.1-Exod.17.7">விப 17:1-7</reference>; <reference osisRef="Num.20.2-Num.20.13">எண் 20:2-13</reference></note>பாலைநிலத்தில் பாறைகளைப் பிளந்தார்;</l>
             <l level="1"> ஆழத்தினின்று பொங்கிவருவது</l>
             <l level="0"> போன்ற நீரை</l>
             <l level="1"> அவர்கள் நிறைவாகப் பருகச் செய்தார்;<verse eID="Ps.78.15" n="15"/></l>
@@ -5757,7 +5757,7 @@
             <l level="1"> தொடர்ந்து பாவம் செய்தனர்;</l>
             <l level="0"> வறண்ட நிலத்தில்</l>
             <l level="1"> உன்னதருக்கு எதிராய் எழுந்தனர்.<verse eID="Ps.78.17" n="17"/></l>
-            <l level="0"><verse osisID="Ps.78.18" sID="Ps.78.18" n="18"/><note type="crossReference" osisRef="Ps.78.18" osisID="Ps.78.18!crossReference"><reference osisRef="Exod.16.2-Exod.16.15">விப 16:2-15</reference>; <reference osisRef="Num.11.4-Num.11.23">எண் 11:4-23</reference>, <reference osisRef="Num.11.31-Num.11.35">31-35</reference></note>தம் விருப்பம்போல் உணவு கேட்டு</l>
+            <l level="0"><verse osisID="Ps.78.18" sID="Ps.78.18" n="18"/><note type="crossReference" osisRef="Ps.78.18-Ps.78.31" osisID="Ps.78.18-Ps.78.31!crossReference">78:18-31 ⇒ <reference osisRef="Exod.16.2-Exod.16.15">விப 16:2-15</reference>; <reference osisRef="Num.11.4-Num.11.23">எண் 11:4-23</reference>, <reference osisRef="Num.11.31-Num.11.35">31-35</reference></note>தம் விருப்பம்போல் உணவு கேட்டு</l>
             <l level="1"> வேண்டுமென்றே இறைவனைச்</l>
             <l level="0"> சோதித்தனர்.<verse eID="Ps.78.18" n="18"/></l>
             <l level="0"><verse osisID="Ps.78.19" sID="Ps.78.19" n="19"/>அவர்கள் கடவுளுக்கு எதிராக</l>
@@ -5877,7 +5877,7 @@
             <l level="1"> பச்சைப் புழுக்களுக்கும்</l>
             <l level="0"> அவர்களது உழைப்பின் பயனை</l>
             <l level="1"> வெட்டுக்கிளிகளுக்கும் அவர் கொடுத்தார்.<verse eID="Ps.78.46" n="46"/></l>
-            <l level="0"><verse osisID="Ps.78.47" sID="Ps.78.47" n="47"/><note type="crossReference" osisRef="Ps.78.47" osisID="Ps.78.47!crossReference"><reference osisRef="Exod.9.22-Exod.9.25">விப 9:22-25</reference></note>கல்மழையினால் அவர்களுடைய</l>
+            <l level="0"><verse osisID="Ps.78.47" sID="Ps.78.47" n="47"/><note type="crossReference" osisRef="Ps.78.47-Ps.78.48" osisID="Ps.78.47-Ps.78.48!crossReference">78:47-48 ⇒ <reference osisRef="Exod.9.22-Exod.9.25">விப 9:22-25</reference></note>கல்மழையினால் அவர்களுடைய</l>
             <l level="1"> திராட்சைக் கொடிகளையும்</l>
             <l level="0"> உறைபனியால் அவர்களுடைய</l>
             <l level="1"> அத்தி மரங்களையும் அவர் அழித்தார்.<verse eID="Ps.78.47" n="47"/></l>
@@ -5939,7 +5939,7 @@
             <l level="1"> உறைவிடத்தினின்று வெளியேறினார்;</l>
             <l level="0"> மானிடர் நடுவில் தாம் வாழ்ந்த</l>
             <l level="1"> கூடாரத்தினின்று அகன்றார்;<verse eID="Ps.78.60" n="60"/></l>
-            <l level="0"><verse osisID="Ps.78.61" sID="Ps.78.61" n="61"/><note type="crossReference" osisRef="Ps.78.61" osisID="Ps.78.61!crossReference"><reference osisRef="1Sam.4.4-1Sam.4.22">1 சாமு 4:4-22</reference></note>தம் வலிமையை*</l>
+            <l level="0"><verse osisID="Ps.78.61" sID="Ps.78.61" n="61"/><note type="crossReference" osisRef="Ps.78.61" osisID="Ps.78.61!crossReference"><reference osisRef="1Sam.4.4-1Sam.4.22">1 சாமு 4:4-22</reference></note>தம் வலிமையை<note osisRef="Ps.78.61" osisID="Ps.78.61!note"> “தம் வலிமையை” மற்றும் “தம் மாட்சியை” என்னும் சொற்கள் உடன்படிக்கைப் பேழையைக் குறிக்கும். (காண். 1 சாமு 4:1-22).</note></l>
             <l level="1"> அடிமைத் தனத்திற்குக் கையளித்தார்;</l>
             <l level="0"> தம் மாட்சியை*</l>
             <l level="1"> எதிரியிடம் ஒப்புவித்தார்;<verse eID="Ps.78.61" n="61"/></l>
@@ -5972,9 +5972,9 @@
             <l level="0"> அவர் தேர்ந்துகொண்டார்.<verse eID="Ps.78.68" n="68"/></l>
             <l level="0"><verse osisID="Ps.78.69" sID="Ps.78.69" n="69"/>தம் திருத்தலத்தை உயர் விண்ணகம்போல்</l>
             <l level="1"> அவர் அமைத்தார்;</l>
-            <l level="0"> மண்ணுலகத்தில்* என்றும்</l>
+            <l level="0"> மண்ணுலகத்தில்<note osisRef="Ps.78.69" osisID="Ps.78.69!note"> ‘மண்ணகம் போல்’ என்பது எபிரேய பாடம்.</note> என்றும்</l>
             <l level="1"> நிலைத்திருக்குமாறு எழுப்பினார்.<verse eID="Ps.78.69" n="69"/></l>
-            <l level="0"><verse osisID="Ps.78.70" sID="Ps.78.70" n="70"/><note type="crossReference" osisRef="Ps.78.70" osisID="Ps.78.70!crossReference"><reference osisRef="1Sam.16.11-1Sam.16.12">1 சாமு 16:11-12</reference>; <reference osisRef="2Sam.7.8">2 சாமு 7:8</reference>; <reference osisRef="1Chr.17.7">1 குறி 17:7</reference></note>அவர் தாவீதைத்</l>
+            <l level="0"><verse osisID="Ps.78.70" sID="Ps.78.70" n="70"/><note type="crossReference" osisRef="Ps.78.70-Ps.78.71" osisID="Ps.78.70-Ps.78.71!crossReference">78:70-71 ⇒ <reference osisRef="1Sam.16.11-1Sam.16.12">1 சாமு 16:11-12</reference>; <reference osisRef="2Sam.7.8">2 சாமு 7:8</reference>; <reference osisRef="1Chr.17.7">1 குறி 17:7</reference></note>அவர் தாவீதைத்</l>
             <l level="1"> தம் ஊழியராய்த் தேர்ந்தெடுத்தார்;</l>
             <l level="0"> ஆட்டு மந்தைகளினின்று</l>
             <l level="1"> அவரைப் பிரித்தெடுத்தார்.<verse eID="Ps.78.70" n="70"/></l>
@@ -6109,7 +6109,7 @@
             <l level="0"><verse osisID="Ps.80.10" sID="Ps.80.10" n="10"/>அதன் நிழல் மலைகளையும்</l>
             <l level="1"> அதன் கிளைகள்</l>
             <l level="0"> வலிமைமிகு கேதுரு மரங்களையும் மூடின.<verse eID="Ps.80.10" n="10"/></l>
-            <l level="0"><verse osisID="Ps.80.11" sID="Ps.80.11" n="11"/>அதன் கொடிகள் கடல்வரையும்*</l>
+            <l level="0"><verse osisID="Ps.80.11" sID="Ps.80.11" n="11"/>அதன் கொடிகள் கடல்வரையும்<note osisRef="Ps.80.11" osisID="Ps.80.11!note"> மத்திய தரைக் கடல், யூப்பிரத்தீசு.</note></l>
             <l level="1"> அதன் தளிர்கள் பேராறுவரையும்** பரவின.<verse eID="Ps.80.11" n="11"/></l>
             <l level="0"><verse osisID="Ps.80.12" sID="Ps.80.12" n="12"/>பின்னர், நீர் ஏன்</l>
             <l level="1"> அதன் மதில்களைத் தகர்த்துவிட்டீர்?</l>
@@ -6188,7 +6188,7 @@
             <l level="0"> இஸ்ரயேலரே, நீங்கள் எனக்குச்</l>
             <l level="1"> செவிசாய்த்தால்,</l>
             <l level="0"> எவ்வளவு நலமாயிருக்கும்!<verse eID="Ps.81.8" n="8"/></l>
-            <l level="0"><verse osisID="Ps.81.9" sID="Ps.81.9" n="9"/><note type="crossReference" osisRef="Ps.81.9" osisID="Ps.81.9!crossReference"><reference osisRef="Exod.20.2-Exod.20.3">விப 20:2-3</reference>; <reference osisRef="Deut.5.6-Deut.5.7">இச 5:6-7</reference></note>உங்களிடையே வேற்றுத் தெய்வம்</l>
+            <l level="0"><verse osisID="Ps.81.9" sID="Ps.81.9" n="9"/><note type="crossReference" osisRef="Ps.81.9-Ps.81.10" osisID="Ps.81.9-Ps.81.10!crossReference">81:9-10 ⇒ <reference osisRef="Exod.20.2-Exod.20.3">விப 20:2-3</reference>; <reference osisRef="Deut.5.6-Deut.5.7">இச 5:6-7</reference></note>உங்களிடையே வேற்றுத் தெய்வம்</l>
             <l level="1"> இருத்தலாகாது;</l>
             <l level="0"> நீங்கள் அன்னிய தெய்வத்தைத்</l>
             <l level="1"> தொழலாகாது.<verse eID="Ps.81.9" n="9"/></l>
@@ -7249,12 +7249,12 @@
             <l level="1"> அவரைத் தொழுவோம்;</l>
             <l level="0"> நம்மை உருவாக்கிய ஆண்டவர்முன்</l>
             <l level="1"> முழந்தாளிடுவோம்.<verse eID="Ps.95.6" n="6"/></l>
-            <l level="0"><verse osisID="Ps.95.7" sID="Ps.95.7" n="7"/><note type="crossReference" osisRef="Ps.95.7" osisID="Ps.95.7!crossReference"><reference osisRef="Heb.3.15">எபி 3:15</reference>; <reference osisRef="Heb.4.7">4:7</reference></note>அவரே நம் கடவுள்;</l>
+            <l level="0"><verse osisID="Ps.95.7" sID="Ps.95.7" n="7"/><note type="crossReference" osisRef="Ps.95.7-Ps.95.8" osisID="Ps.95.7-Ps.95.8!crossReference">95:7-8 ⇒ <reference osisRef="Heb.3.15">எபி 3:15</reference>; <reference osisRef="Heb.4.7">4:7</reference></note>அவரே நம் கடவுள்;</l>
             <l level="1"> நாமோ அவரது மேய்ச்சலின் மக்கள்;</l>
             <l level="0"> நாம் அவர் பேணிக்காக்கும் ஆடுகள்.</l>
             <l level="1"> இன்று நீங்கள் அவரது குரலுக்குச்</l>
             <l level="0"> செவிகொடுத்தால் எத்துணை நலம்!<verse eID="Ps.95.7" n="7"/></l>
-            <l level="0"><verse osisID="Ps.95.8" sID="Ps.95.8" n="8"/><note type="crossReference" osisRef="Ps.95.8" osisID="Ps.95.8!crossReference"><reference osisRef="Exod.17.1-Exod.17.7">விப 17:1-7</reference>; <reference osisRef="Num.20.2-Num.20.13">எண் 20:2-13</reference></note>அன்று மெரிபாவிலும், பாலை நிலத்தில்</l>
+            <l level="0"><verse osisID="Ps.95.8" sID="Ps.95.8" n="8"/><note type="crossReference" osisRef="Ps.95.8-Ps.95.9" osisID="Ps.95.8-Ps.95.9!crossReference">95:8-9 ⇒ <reference osisRef="Exod.17.1-Exod.17.7">விப 17:1-7</reference>; <reference osisRef="Num.20.2-Num.20.13">எண் 20:2-13</reference></note>அன்று மெரிபாவிலும், பாலை நிலத்தில்</l>
             <l level="1"> மாசாவிலும் செய்ததுபோல்,</l>
             <l level="0"> உங்கள் இதயத்தைக்</l>
             <l level="1"> கடினப்படுத்திக் கொள்ளாதீர்கள்.<verse eID="Ps.95.8" n="8"/></l>
@@ -7306,7 +7306,7 @@
             <l level="1"> அவர் திருமுன் உள்ளன;</l>
             <l level="0"> ஆற்றலும் எழிலும்</l>
             <l level="1"> அவரது திருத்தலத்தில் உள்ளன;<verse eID="Ps.96.6" n="6"/></l>
-            <l level="0"><verse osisID="Ps.96.7" sID="Ps.96.7" n="7"/><note type="crossReference" osisRef="Ps.96.7" osisID="Ps.96.7!crossReference"><reference osisRef="Ps.29.1-Ps.29.2">திபா 29:1-2</reference></note>மக்களினங்களின் குடும்பங்களே,</l>
+            <l level="0"><verse osisID="Ps.96.7" sID="Ps.96.7" n="7"/><note type="crossReference" osisRef="Ps.96.7-Ps.96.9" osisID="Ps.96.7-Ps.96.9!crossReference">96:7-9 ⇒ <reference osisRef="Ps.29.1-Ps.29.2">திபா 29:1-2</reference></note>மக்களினங்களின் குடும்பங்களே,</l>
             <l level="1"> ஆண்டவருக்குச் சாற்றுங்கள்;</l>
             <l level="0"> மாட்சியையும் ஆற்றலையும்</l>
             <l level="1"> ஆண்டவருக்குச் சாற்றுங்கள்.<verse eID="Ps.96.7" n="7"/></l>
@@ -7672,7 +7672,7 @@
             <l level="0"> என்னை எடுத்துக் கொள்ளாதேயும்;</l>
             <l level="1"> உமது காலம் தலைமுறை</l>
             <l level="0"> தலைமுறையாய் உள்ளதன்றோ?<verse eID="Ps.102.24" n="24"/></l>
-            <l level="0"><verse osisID="Ps.102.25" sID="Ps.102.25" n="25"/><note type="crossReference" osisRef="Ps.102.25" osisID="Ps.102.25!crossReference"><reference osisRef="Heb.1.10-Heb.1.12">எபி 1:10-12</reference></note>முற்காலத்தில் நீர் பூவுலகுக்கு</l>
+            <l level="0"><verse osisID="Ps.102.25" sID="Ps.102.25" n="25"/><note type="crossReference" osisRef="Ps.102.25-Ps.102.27" osisID="Ps.102.25-Ps.102.27!crossReference">102:25-27 ⇒ <reference osisRef="Heb.1.10-Heb.1.12">எபி 1:10-12</reference></note>முற்காலத்தில் நீர் பூவுலகுக்கு</l>
             <l level="1"> அடித்தளமிட்டீர்;</l>
             <l level="0"> விண்ணுலகம் உமது</l>
             <l level="1"> கைவினைப் பொருள் அன்றோ!<verse eID="Ps.102.25" n="25"/></l>
@@ -7983,7 +7983,7 @@
             <l level="0"> ஈசாக்குக்குத் தாம்</l>
             <l level="1"> ஆணையிட்டுக் கூறியதையும்</l>
             <l level="0"> அவர் நினைவில் கொண்டுள்ளார்.<verse eID="Ps.105.9" n="9"/></l>
-            <l level="0"><verse osisID="Ps.105.10" sID="Ps.105.10" n="10"/><note type="crossReference" osisRef="Ps.105.10" osisID="Ps.105.10!crossReference"><reference osisRef="Gen.28.13">தொநூ 28:13</reference></note>யாக்கோபுக்கு நியமமாகவும்</l>
+            <l level="0"><verse osisID="Ps.105.10" sID="Ps.105.10" n="10"/><note type="crossReference" osisRef="Ps.105.10-Ps.105.11" osisID="Ps.105.10-Ps.105.11!crossReference">105:10-11 ⇒ <reference osisRef="Gen.28.13">தொநூ 28:13</reference></note>யாக்கோபுக்கு நியமமாகவும்</l>
             <l level="1"> இஸ்ரயேலுக்கு</l>
             <l level="0"> என்றுமுள உடன்படிக்கையாகவும்</l>
             <l level="1"> அதை அவர் உறுதிப்படுத்தினார்.<verse eID="Ps.105.10" n="10"/></l>
@@ -8001,7 +8001,7 @@
             <l level="1"> மற்றொரு நாட்டிற்கும்</l>
             <l level="0"> ஓர் அரசினின்று மற்றொரு மக்களிடமும்</l>
             <l level="1"> அலைந்து திரிந்தார்கள்.<verse eID="Ps.105.13" n="13"/></l>
-            <l level="0"><verse osisID="Ps.105.14" sID="Ps.105.14" n="14"/><note type="crossReference" osisRef="Ps.105.14" osisID="Ps.105.14!crossReference"><reference osisRef="Gen.20.3-Gen.20.7">தொநூ 20:3-7</reference></note>யாரும் அவர்களை ஒடுக்குமாறு</l>
+            <l level="0"><verse osisID="Ps.105.14" sID="Ps.105.14" n="14"/><note type="crossReference" osisRef="Ps.105.14-Ps.105.15" osisID="Ps.105.14-Ps.105.15!crossReference">105:14-15 ⇒ <reference osisRef="Gen.20.3-Gen.20.7">தொநூ 20:3-7</reference></note>யாரும் அவர்களை ஒடுக்குமாறு</l>
             <l level="1"> அவர் விட்டு விடவில்லை;</l>
             <l level="0"> அவர்களின் பொருட்டு மன்னர்களை</l>
             <l level="1"> அவர் கண்டித்தார்.<verse eID="Ps.105.14" n="14"/></l>
@@ -8016,7 +8016,7 @@
             <l level="1"> அனுப்பிவைத்தார்;</l>
             <l level="0"> யோசேப்பு என்பவர்</l>
             <l level="1"> அடிமையாக விற்கப்பட்டார்.<verse eID="Ps.105.17" n="17"/></l>
-            <l level="0"><verse osisID="Ps.105.18" sID="Ps.105.18" n="18"/><note type="crossReference" osisRef="Ps.105.18" osisID="Ps.105.18!crossReference"><reference osisRef="Gen.39.20-Gen.40.23">தொநூ 39:20-40:23</reference></note>அவர்தம் கால்களுக்கு விலங்கிட்டு</l>
+            <l level="0"><verse osisID="Ps.105.18" sID="Ps.105.18" n="18"/><note type="crossReference" osisRef="Ps.105.18-Ps.105.19" osisID="Ps.105.18-Ps.105.19!crossReference">105:18-19 ⇒ <reference osisRef="Gen.39.20-Gen.40.23">தொநூ 39:20-40:23</reference></note>அவர்தம் கால்களுக்கு விலங்கிட்டு</l>
             <l level="1"> அவரைத் துன்புறுத்தினர்.</l>
             <l level="0"> அவர்தம் கழுத்தில்</l>
             <l level="1"> இரும்புப் பட்டையை மாட்டினர்.<verse eID="Ps.105.18" n="18"/></l>
@@ -8038,7 +8038,7 @@
             <l level="0"><verse osisID="Ps.105.23" sID="Ps.105.23" n="23"/><note type="crossReference" osisRef="Ps.105.23" osisID="Ps.105.23!crossReference"><reference osisRef="Gen.46.6">தொநூ 46:6</reference>; <reference osisRef="Gen.47.11">47:11</reference></note>பின்னர், இஸ்ரயேல் எகிப்துக்கு வந்தார்;</l>
             <l level="1"> யாக்கோபு காம் நாட்டில்</l>
             <l level="0"> அன்னியராய் வாழ்ந்தார்.<verse eID="Ps.105.23" n="23"/></l>
-            <l level="0"><verse osisID="Ps.105.24" sID="Ps.105.24" n="24"/><note type="crossReference" osisRef="Ps.105.24" osisID="Ps.105.24!crossReference"><reference osisRef="Exod.1.7-Exod.1.14">விப 1:7-14</reference></note>ஆண்டவர் தம் மக்களைப்</l>
+            <l level="0"><verse osisID="Ps.105.24" sID="Ps.105.24" n="24"/><note type="crossReference" osisRef="Ps.105.24-Ps.105.25" osisID="Ps.105.24-Ps.105.25!crossReference">105:24-25 ⇒ <reference osisRef="Exod.1.7-Exod.1.14">விப 1:7-14</reference></note>ஆண்டவர் தம் மக்களைப்</l>
             <l level="1"> பல்கிப் பெருகச் செய்தார்;</l>
             <l level="0"> அவர்களின் எதிரிகளைவிட அவர்களை</l>
             <l level="1"> வலிமைமிக்கவர்கள் ஆக்கினார்.<verse eID="Ps.105.24" n="24"/></l>
@@ -8067,7 +8067,7 @@
             <l level="0"><verse osisID="Ps.105.31" sID="Ps.105.31" n="31"/><note type="crossReference" osisRef="Ps.105.31" osisID="Ps.105.31!crossReference"><reference osisRef="Exod.8.16-Exod.8.17">விப 8:16-17</reference>, <reference osisRef="Exod.8.20-Exod.8.24">20-24</reference></note>அவர் கட்டளையிட,</l>
             <l level="1"> அவர்களுடைய நாடு முழுவதிலும்</l>
             <l level="0"> ஈக்களும் கொசுக்களும் திரண்டு வந்தன.<verse eID="Ps.105.31" n="31"/></l>
-            <l level="0"><verse osisID="Ps.105.32" sID="Ps.105.32" n="32"/><note type="crossReference" osisRef="Ps.105.32" osisID="Ps.105.32!crossReference"><reference osisRef="Exod.9.22-Exod.9.25">விப 9:22-25</reference></note>அவர் நீருக்குப் பதிலாகக்</l>
+            <l level="0"><verse osisID="Ps.105.32" sID="Ps.105.32" n="32"/><note type="crossReference" osisRef="Ps.105.32-Ps.105.33" osisID="Ps.105.32-Ps.105.33!crossReference">105:32-33 ⇒ <reference osisRef="Exod.9.22-Exod.9.25">விப 9:22-25</reference></note>அவர் நீருக்குப் பதிலாகக்</l>
             <l level="1"> கல்லை மழையாகப் பொழிந்தார்;</l>
             <l level="0"> அவர்களது நாடெங்கும்</l>
             <l level="1"> மின்னல் தெறிக்கச் செய்தார்.<verse eID="Ps.105.32" n="32"/></l>
@@ -8076,7 +8076,7 @@
             <l level="0"> அத்திமரங்களையும் அழித்தார்;</l>
             <l level="1"> அவர்களது நாடெங்குமுள்ள</l>
             <l level="0"> மரங்களை முறித்தார்.<verse eID="Ps.105.33" n="33"/></l>
-            <l level="0"><verse osisID="Ps.105.34" sID="Ps.105.34" n="34"/><note type="crossReference" osisRef="Ps.105.34" osisID="Ps.105.34!crossReference"><reference osisRef="Exod.10.12-Exod.10.15">விப 10:12-15</reference></note>அவரது சொல்லால் வெட்டுக் கிளிகளும்</l>
+            <l level="0"><verse osisID="Ps.105.34" sID="Ps.105.34" n="34"/><note type="crossReference" osisRef="Ps.105.34-Ps.105.35" osisID="Ps.105.34-Ps.105.35!crossReference">105:34-35 ⇒ <reference osisRef="Exod.10.12-Exod.10.15">விப 10:12-15</reference></note>அவரது சொல்லால் வெட்டுக் கிளிகளும்</l>
             <l level="1"> எண்ணற்ற வெட்டுப்புழுக்களும்</l>
             <l level="0"> அங்கே தோன்றின.<verse eID="Ps.105.34" n="34"/></l>
             <l level="0"><verse osisID="Ps.105.35" sID="Ps.105.35" n="35"/>அவை அவர்களது நாட்டின்</l>
@@ -8088,7 +8088,7 @@
             <l level="0"> தாக்கினார்; அவர்களது</l>
             <l level="1"> ஆண்மையின் முதற்பேறுகள்</l>
             <l level="0"> அனைத்தையும் வீழ்த்தினார்.<verse eID="Ps.105.36" n="36"/></l>
-            <l level="0"><verse osisID="Ps.105.37" sID="Ps.105.37" n="37"/><note type="crossReference" osisRef="Ps.105.37" osisID="Ps.105.37!crossReference"><reference osisRef="Exod.12.33-Exod.12.36">விப 12:33-36</reference></note>அவர் இஸ்ரயேலரை</l>
+            <l level="0"><verse osisID="Ps.105.37" sID="Ps.105.37" n="37"/><note type="crossReference" osisRef="Ps.105.37-Ps.105.38" osisID="Ps.105.37-Ps.105.38!crossReference">105:37-38 ⇒ <reference osisRef="Exod.12.33-Exod.12.36">விப 12:33-36</reference></note>அவர் இஸ்ரயேலரை</l>
             <l level="1"> வெள்ளியோடும் பொன்னோடும்</l>
             <l level="0"> புறப்படச் செய்தார்;</l>
             <l level="1"> அவர்கள் குலங்களில் எவரும்</l>
@@ -8162,12 +8162,12 @@
             <l level="1"> உமது மாபெரும் பேரன்பை</l>
             <l level="0"> அவர்கள் நினைவில் கொள்ளவில்லை;</l>
             <l level="1"> மாறாக உன்னதமானவரை எதிர்த்துச்</l>
-            <l level="0"> செங்கடல் ஓரத்தில்* கலகம் செய்தனர்.<verse eID="Ps.106.7" n="7"/></l>
+            <l level="0"> செங்கடல் ஓரத்தில்<note osisRef="Ps.106.7" osisID="Ps.106.7!note"> ‘செங்கடல் ஓரத்தில்’ என்பதற்குப் பதில் ‘கடல் ஓரத்தில்’ எ’பது எபிரேய பாடம்.</note> கலகம் செய்தனர்.<verse eID="Ps.106.7" n="7"/></l>
             <l level="0"><verse osisID="Ps.106.8" sID="Ps.106.8" n="8"/>அவரோ தமது பெயரின் பொருட்டு</l>
             <l level="1"> அவர்களை விடுவித்தார்;</l>
             <l level="0"> இவ்வாறு அவர் தமது வலிமையை</l>
             <l level="1"> வெளிப்படுத்தினார்.<verse eID="Ps.106.8" n="8"/></l>
-            <l level="0"><verse osisID="Ps.106.9" sID="Ps.106.9" n="9"/><note type="crossReference" osisRef="Ps.106.9" osisID="Ps.106.9!crossReference"><reference osisRef="Exod.14.21-Exod.14.31">விப 14:21-31</reference></note>அவர் செங்கடலை அதட்டினார்;</l>
+            <l level="0"><verse osisID="Ps.106.9" sID="Ps.106.9" n="9"/><note type="crossReference" osisRef="Ps.106.9-Ps.106.12" osisID="Ps.106.9-Ps.106.12!crossReference">106:9-12 ⇒ <reference osisRef="Exod.14.21-Exod.14.31">விப 14:21-31</reference></note>அவர் செங்கடலை அதட்டினார்;</l>
             <l level="1"> அது உலர்ந்து போயிற்று;</l>
             <l level="0"> பாலை நிலத்தில் நடத்திச் செல்வது போல்</l>
             <l level="1"> அவர்களை ஆழ்கடல் வழியே</l>
@@ -8189,7 +8189,7 @@
             <l level="0"> மறந்துவிட்டார்கள்;</l>
             <l level="1"> அவரது அறிவுரைக்காக</l>
             <l level="0"> அவர்கள் காத்திருக்கவில்லை.<verse eID="Ps.106.13" n="13"/></l>
-            <l level="0"><verse osisID="Ps.106.14" sID="Ps.106.14" n="14"/><note type="crossReference" osisRef="Ps.106.14" osisID="Ps.106.14!crossReference"><reference osisRef="Num.11.4-Num.11.34">எண் 11:4-34</reference></note>பாலைநிலத்தில் அவர்கள்</l>
+            <l level="0"><verse osisID="Ps.106.14" sID="Ps.106.14" n="14"/><note type="crossReference" osisRef="Ps.106.14-Ps.106.15" osisID="Ps.106.14-Ps.106.15!crossReference">106:14-15 ⇒ <reference osisRef="Num.11.4-Num.11.34">எண் 11:4-34</reference></note>பாலைநிலத்தில் அவர்கள்</l>
             <l level="1"> பெருவிருப்புக்கு இடங்கொடுத்தார்கள்.</l>
             <l level="0"> பாழ்வெளியில் அவர்கள்</l>
             <l level="1"> இறைவனைச் சோதித்தார்கள்.<verse eID="Ps.106.14" n="14"/></l>
@@ -8197,7 +8197,7 @@
             <l level="1"> அவர் அவர்களுக்குச் கொடுத்தார்;</l>
             <l level="0"> அவர்களின் உயிரை அழிக்குமாறு</l>
             <l level="1"> அவர்கள்மீது நோயை அனுப்பினார்.<verse eID="Ps.106.15" n="15"/></l>
-            <l level="0"><verse osisID="Ps.106.16" sID="Ps.106.16" n="16"/><note type="crossReference" osisRef="Ps.106.16" osisID="Ps.106.16!crossReference"><reference osisRef="Num.16.1-Num.16.35">எண் 16:1-35</reference></note>பாளையத்தில் இருக்கும்போது</l>
+            <l level="0"><verse osisID="Ps.106.16" sID="Ps.106.16" n="16"/><note type="crossReference" osisRef="Ps.106.16-Ps.106.18" osisID="Ps.106.16-Ps.106.18!crossReference">106:16-18 ⇒ <reference osisRef="Num.16.1-Num.16.35">எண் 16:1-35</reference></note>பாளையத்தில் இருக்கும்போது</l>
             <l level="1"> மோசேயின்மீதும்,</l>
             <l level="0"> ஆண்டவருக்காகத் திருநிலைபெற்ற</l>
             <l level="1"> ஆரோன்மீதும்,</l>
@@ -8208,7 +8208,7 @@
             <l level="0"><verse osisID="Ps.106.18" sID="Ps.106.18" n="18"/>அக்கும்பலிடையே நெருப்பு</l>
             <l level="1"> கொழுந்துவிட்டு எரிந்தது;</l>
             <l level="0"> தீயோரைத் தீப்பிழம்பு எரித்தது.<verse eID="Ps.106.18" n="18"/></l>
-            <l level="0"><verse osisID="Ps.106.19" sID="Ps.106.19" n="19"/><note type="crossReference" osisRef="Ps.106.19" osisID="Ps.106.19!crossReference"><reference osisRef="Exod.32.1-Exod.32.14">விப 32:1-14</reference></note>அவர்கள் ஓரேபில் ஒரு</l>
+            <l level="0"><verse osisID="Ps.106.19" sID="Ps.106.19" n="19"/><note type="crossReference" osisRef="Ps.106.19-Ps.106.23" osisID="Ps.106.19-Ps.106.23!crossReference">106:19-23 ⇒ <reference osisRef="Exod.32.1-Exod.32.14">விப 32:1-14</reference></note>அவர்கள் ஓரேபில் ஒரு</l>
             <l level="1"> கன்றுக் குட்டியைச் செய்துகொண்டனர்;</l>
             <l level="0"> வார்ப்புச் சிலையை விழுந்து வணங்கினர்;<verse eID="Ps.106.19" n="19"/></l>
             <l level="0"><verse osisID="Ps.106.20" sID="Ps.106.20" n="20"/>தங்கள் ‘மாட்சி’க்குப் பதிலாக,</l>
@@ -8229,7 +8229,7 @@
             <l level="0"> உடைமதில் காவலர் போல் நின்று</l>
             <l level="1"> அவரது கடுஞ்சினம் அவர்களை</l>
             <l level="0"> அழிக்காதவாறு தடுத்தார்.<verse eID="Ps.106.23" n="23"/></l>
-            <l level="0"><verse osisID="Ps.106.24" sID="Ps.106.24" n="24"/><note type="crossReference" osisRef="Ps.106.24" osisID="Ps.106.24!crossReference"><reference osisRef="Num.14.1-Num.14.35">எண் 14:1-35</reference></note>அருமையான நாட்டை</l>
+            <l level="0"><verse osisID="Ps.106.24" sID="Ps.106.24" n="24"/><note type="crossReference" osisRef="Ps.106.24-Ps.106.26" osisID="Ps.106.24-Ps.106.26!crossReference">106:24-26 ⇒ <reference osisRef="Num.14.1-Num.14.35">எண் 14:1-35</reference></note>அருமையான நாட்டை</l>
             <l level="1"> அவர்கள் இகழ்ந்தார்கள்;</l>
             <l level="0"> அவரது வாக்குறுதியில்</l>
             <l level="1"> நம்பிக்கை கொள்ளவில்லை.<verse eID="Ps.106.24" n="24"/></l>
@@ -8245,7 +8245,7 @@
             <l level="1"> வேற்றினங்களிடையிலும்</l>
             <l level="0"> அன்னிய நாடுகளிலும்</l>
             <l level="1"> சிதறடிப்பேன்’ என்றார்.<verse eID="Ps.106.27" n="27"/></l>
-            <l level="0"><verse osisID="Ps.106.28" sID="Ps.106.28" n="28"/><note type="crossReference" osisRef="Ps.106.28" osisID="Ps.106.28!crossReference"><reference osisRef="Num.25.1-Num.25.13">எண் 25:1-13</reference></note>பின்னர் அவர்கள் பாகால்பெயோரைப்</l>
+            <l level="0"><verse osisID="Ps.106.28" sID="Ps.106.28" n="28"/><note type="crossReference" osisRef="Ps.106.28-Ps.106.31" osisID="Ps.106.28-Ps.106.31!crossReference">106:28-31 ⇒ <reference osisRef="Num.25.1-Num.25.13">எண் 25:1-13</reference></note>பின்னர் அவர்கள் பாகால்பெயோரைப்</l>
             <l level="1"> பற்றிக் கொண்டார்கள்.</l>
             <l level="0"> உயிரற்ற தெய்வங்களுக்குப்</l>
             <l level="1"> பலியிட்டவற்றை உண்டார்கள்;<verse eID="Ps.106.28" n="28"/></l>
@@ -8259,14 +8259,14 @@
             <l level="0"><verse osisID="Ps.106.31" sID="Ps.106.31" n="31"/>இதனால், தலைமுறை தலைமுறையாக</l>
             <l level="1"> என்றென்றும், அவரது செயல்</l>
             <l level="0"> நீதியாகக் கருதப்பட்டது.<verse eID="Ps.106.31" n="31"/></l>
-            <l level="0"><verse osisID="Ps.106.32" sID="Ps.106.32" n="32"/><note type="crossReference" osisRef="Ps.106.32" osisID="Ps.106.32!crossReference"><reference osisRef="Num.20.2-Num.20.13">எண் 20:2-13</reference></note>மெரிபாவின் ஊற்றினருகில்</l>
+            <l level="0"><verse osisID="Ps.106.32" sID="Ps.106.32" n="32"/><note type="crossReference" osisRef="Ps.106.32-Ps.106.33" osisID="Ps.106.32-Ps.106.33!crossReference">106:32-33 ⇒ <reference osisRef="Num.20.2-Num.20.13">எண் 20:2-13</reference></note>மெரிபாவின் ஊற்றினருகில்</l>
             <l level="1"> அவருக்குச் சினமூட்டினார்கள்.</l>
             <l level="0"> அவர்களின் பொருட்டு</l>
             <l level="1"> மோசேக்கும் தீங்கு நேரிட்டது.<verse eID="Ps.106.32" n="32"/></l>
             <l level="0"><verse osisID="Ps.106.33" sID="Ps.106.33" n="33"/>மோசேக்கு அவர்கள்</l>
             <l level="1"> மனக்கசப்பை ஏற்படுத்தியதால்</l>
             <l level="0"> அவர் முன்பின் பாராது பேசினார்.<verse eID="Ps.106.33" n="33"/></l>
-            <l level="0"><verse osisID="Ps.106.34" sID="Ps.106.34" n="34"/><note type="crossReference" osisRef="Ps.106.34" osisID="Ps.106.34!crossReference"><reference osisRef="Judg.2.1">நீத 2:1</reference>; <reference osisRef="Judg.3.5-Judg.3.6">3:5-6</reference></note>ஆண்டவர் இட்ட கட்டளைக்கு மாறாக,</l>
+            <l level="0"><verse osisID="Ps.106.34" sID="Ps.106.34" n="34"/><note type="crossReference" osisRef="Ps.106.34-Ps.106.36" osisID="Ps.106.34-Ps.106.36!crossReference">106:34-36 ⇒ <reference osisRef="Judg.2.1">நீத 2:1</reference>; <reference osisRef="Judg.3.5-Judg.3.6">3:5-6</reference></note>ஆண்டவர் இட்ட கட்டளைக்கு மாறாக,</l>
             <l level="1"> மக்களினங்களை அவர்கள்</l>
             <l level="0"> அழிக்கவில்லை.<verse eID="Ps.106.34" n="34"/></l>
             <l level="0"><verse osisID="Ps.106.35" sID="Ps.106.35" n="35"/>வேற்றினத்தாரோடு கலந்துறவாடி,</l>
@@ -8289,7 +8289,7 @@
             <l level="1"> கறைப்படுத்திக் கொண்டனர்;</l>
             <l level="0"> தங்கள் செயல்கள் மூலம்</l>
             <l level="1"> வேசித்தனம் செய்தனர்.<verse eID="Ps.106.39" n="39"/></l>
-            <l level="0"><verse osisID="Ps.106.40" sID="Ps.106.40" n="40"/><note type="crossReference" osisRef="Ps.106.40" osisID="Ps.106.40!crossReference"><reference osisRef="Judg.2.14-Judg.2.18">நீத 2:14-18</reference></note>எனவே, ஆண்டவரின் சினம்</l>
+            <l level="0"><verse osisID="Ps.106.40" sID="Ps.106.40" n="40"/><note type="crossReference" osisRef="Ps.106.40-Ps.106.46" osisID="Ps.106.40-Ps.106.46!crossReference">106:40-46 ⇒ <reference osisRef="Judg.2.14-Judg.2.18">நீத 2:14-18</reference></note>எனவே, ஆண்டவரின் சினம்</l>
             <l level="1"> அவர்தம் மக்களுக்கெதிராகப்</l>
             <l level="0"> பற்றியெரிந்தது;</l>
             <l level="1"> தமது உரிமைச் சொத்தை</l>
@@ -8320,7 +8320,7 @@
             <l level="0"><verse osisID="Ps.106.46" sID="Ps.106.46" n="46"/>அவர்களைச் சிறைசெய்த</l>
             <l level="1"> அனைவர் முன்னிலையிலும்</l>
             <l level="0"> அவர்கள் இரக்கம் பெறும்படி செய்தார்.<verse eID="Ps.106.46" n="46"/></l>
-            <l level="0"><verse osisID="Ps.106.47" sID="Ps.106.47" n="47"/><note type="crossReference" osisRef="Ps.106.47" osisID="Ps.106.47!crossReference"><reference osisRef="1Chr.16.35-1Chr.16.36">1 குறி 16:35-36</reference></note>எங்கள் கடவுளாகிய ஆண்டவரே!</l>
+            <l level="0"><verse osisID="Ps.106.47" sID="Ps.106.47" n="47"/><note type="crossReference" osisRef="Ps.106.47-Ps.106.48" osisID="Ps.106.47-Ps.106.48!crossReference">106:47-48 ⇒ <reference osisRef="1Chr.16.35-1Chr.16.36">1 குறி 16:35-36</reference></note>எங்கள் கடவுளாகிய ஆண்டவரே!</l>
             <l level="1"> எங்களை விடுவித்தருளும்;</l>
             <l level="0"> வேற்று நாடுகளினின்று</l>
             <l level="1"> எங்களை ஒன்று சேர்த்தருளும்;</l>
@@ -8946,7 +8946,7 @@
             <l level="0"><verse osisID="Ps.115.3" sID="Ps.115.3" n="3"/>நம் கடவுளோ விண்ணுலகில் உள்ளார்;</l>
             <l level="1"> தம் திருவுளப்படி</l>
             <l level="0"> அனைத்தையும் செய்கின்றார்.<verse eID="Ps.115.3" n="3"/></l>
-            <l level="0"><verse osisID="Ps.115.4" sID="Ps.115.4" n="4"/><note type="crossReference" osisRef="Ps.115.4" osisID="Ps.115.4!crossReference"><reference osisRef="Ps.135.15-Ps.135.18">திபா 135:15-18</reference>; <reference osisRef="Rev.9.20">திவெ 9:20</reference></note>அவர்களுடைய தெய்வச்சிலைகள்</l>
+            <l level="0"><verse osisID="Ps.115.4" sID="Ps.115.4" n="4"/><note type="crossReference" osisRef="Ps.115.4-Ps.115.8" osisID="Ps.115.4-Ps.115.8!crossReference">115:4-8 ⇒ <reference osisRef="Ps.135.15-Ps.135.18">திபா 135:15-18</reference>; <reference osisRef="Rev.9.20">திவெ 9:20</reference></note>அவர்களுடைய தெய்வச்சிலைகள்</l>
             <l level="1"> வெறும் வெள்ளியும் பொன்னுமே,</l>
             <l level="0"> வெறும் மனிதக் கைவேலையே!<verse eID="Ps.115.4" n="4"/></l>
             <l level="0"><verse osisID="Ps.115.5" sID="Ps.115.5" n="5"/>அவற்றுக்கு வாய்கள் உண்டு;</l>
@@ -10616,7 +10616,7 @@
             <l level="0"><verse osisID="Ps.136.6" sID="Ps.136.6" n="6"/><note type="crossReference" osisRef="Ps.136.6" osisID="Ps.136.6!crossReference"><reference osisRef="Gen.1.2">தொநூ 1:2</reference></note>கடல்மீது மண்ணகத்தை விரித்தவர்க்கு</l>
             <l level="1"> நன்றி செலுத்துங்கள்;</l>
             <l level="0"> என்றும் உள்ளது அவரது பேரன்பு.<verse eID="Ps.136.6" n="6"/></l>
-            <l level="0"><verse osisID="Ps.136.7" sID="Ps.136.7" n="7"/><note type="crossReference" osisRef="Ps.136.7" osisID="Ps.136.7!crossReference"><reference osisRef="Gen.1.16">தொநூ 1:16</reference></note>பெருஞ்சுடர்களை உருவாக்கியவர்க்கு</l>
+            <l level="0"><verse osisID="Ps.136.7" sID="Ps.136.7" n="7"/><note type="crossReference" osisRef="Ps.136.7-Ps.136.9" osisID="Ps.136.7-Ps.136.9!crossReference">136:7-9 ⇒ <reference osisRef="Gen.1.16">தொநூ 1:16</reference></note>பெருஞ்சுடர்களை உருவாக்கியவர்க்கு</l>
             <l level="1"> நன்றி செலுத்துங்கள்;</l>
             <l level="0"> என்றும் உள்ளது அவரது பேரன்பு.<verse eID="Ps.136.7" n="7"/></l>
             <l level="0"><verse osisID="Ps.136.8" sID="Ps.136.8" n="8"/>பகலை ஆள்வதற்கெனக்</l>
@@ -10639,7 +10639,7 @@
             <l level="1"> ஓங்கிய புயத்தாலும் அதைச்</l>
             <l level="0"> செய்தவர்க்கு நன்றி செலுத்துங்கள்;</l>
             <l level="1"> என்றும் உள்ளது அவரது பேரன்பு.<verse eID="Ps.136.12" n="12"/></l>
-            <l level="0"><verse osisID="Ps.136.13" sID="Ps.136.13" n="13"/><note type="crossReference" osisRef="Ps.136.13" osisID="Ps.136.13!crossReference"><reference osisRef="Exod.14.21-Exod.14.29">விப 14:21-29</reference></note>செங்கடலை இரண்டாகப் பிரித்தவர்க்கு</l>
+            <l level="0"><verse osisID="Ps.136.13" sID="Ps.136.13" n="13"/><note type="crossReference" osisRef="Ps.136.13-Ps.136.15" osisID="Ps.136.13-Ps.136.15!crossReference">136:13-15 ⇒ <reference osisRef="Exod.14.21-Exod.14.29">விப 14:21-29</reference></note>செங்கடலை இரண்டாகப் பிரித்தவர்க்கு</l>
             <l level="1"> நன்றி செலுத்துங்கள்;</l>
             <l level="0"> என்றும் உள்ளது அவரது பேரன்பு.<verse eID="Ps.136.13" n="13"/></l>
             <l level="0"><verse osisID="Ps.136.14" sID="Ps.136.14" n="14"/>அதன் நடுவே இஸ்ரயேலை</l>
@@ -10822,7 +10822,7 @@
             <l level="1"> பாதாளத்தில் படுக்கையை</l>
             <l level="0"> அமைத்துக் கொண்டாலும்</l>
             <l level="1"> நீர் அங்கேயும் இருக்கின்றீர்!<verse eID="Ps.139.8" n="8"/></l>
-            <l level="0"><verse osisID="Ps.139.9" sID="Ps.139.9" n="9"/>நான் *கதிரவனின் இடத்திற்கும்*</l>
+            <l level="0"><verse osisID="Ps.139.9" sID="Ps.139.9" n="9"/>நான் <note osisRef="Ps.139.9" osisID="Ps.139.9!note"> … ‘வைகறையின் இறக்கைகளால்’ என்பது எபிரேய பாடம்.</note>கதிரவனின் இடத்திற்கும்*</l>
             <l level="1"> பறந்து சென்றாலும்</l>
             <l level="0"> மேற்கே கடலுக்கு அப்பால் வாழ்ந்தாலும்,<verse eID="Ps.139.9" n="9"/></l>
             <l level="0"><verse osisID="Ps.139.10" sID="Ps.139.10" n="10"/>அங்கேயும் உமது கை</l>
@@ -11150,7 +11150,7 @@
             <l level="1"> பயிற்சி அளிப்பவர் அவரே!</l>
             <l level="0"> போர்புரிய என் விரல்களைப்</l>
             <l level="1"> பழக்குபவரும் அவரே!<verse eID="Ps.144.1" n="1"/></l>
-            <l level="0"><verse osisID="Ps.144.2" sID="Ps.144.2" n="2"/>என் கற்பாறையும்* கோட்டையும் அவரே!</l>
+            <l level="0"><verse osisID="Ps.144.2" sID="Ps.144.2" n="2"/>என் கற்பாறையும்<note osisRef="Ps.144.2" osisID="Ps.144.2!note"> ‘பேரன்பும்’ என்றும் பொருள்படும்.</note> கோட்டையும் அவரே!</l>
             <l level="1"> எனக்குப் பாதுகாப்பாளரும்</l>
             <l level="0"> மீட்பரும் அவரே!</l>
             <l level="1"> என் கேடயமும் புகலிடமும் அவரே!</l>

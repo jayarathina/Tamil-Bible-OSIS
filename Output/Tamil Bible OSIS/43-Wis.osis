@@ -202,7 +202,7 @@
             <l level="0"><verse osisID="Wis.2.13" sID="Wis.2.13" n="13"/>கடவுளைப்பற்றிய அறிவு</l>
             <l level="1"> தங்களுக்கு உண்டு என</l>
             <l level="0"> அவர்கள் பறைசாற்றுகிறார்கள்;</l>
-            <l level="1"> ஆண்டவரின் பிள்ளைகள்* எனத் தங்களை அழைத்துக் கொள்கிறார்கள்.<verse eID="Wis.2.13" n="13"/></l>
+            <l level="1"> ஆண்டவரின் பிள்ளைகள்<note osisRef="Wis.2.13" osisID="Wis.2.13!note"> ‘ஊழியர்’ என்றும் மொழிபெயர்க்கலாம்.</note> எனத் தங்களை அழைத்துக் கொள்கிறார்கள்.<verse eID="Wis.2.13" n="13"/></l>
             <l level="0"><verse osisID="Wis.2.14" sID="Wis.2.14" n="14"/>அவர்களது நடத்தையே</l>
             <l level="1"> நம் எண்ணங்களைக் கண்டிக்கிறது.</l>
             <l level="0"> அவர்களைப் பார்ப்பதே</l>
@@ -255,7 +255,7 @@
             <l level="1"> என்று உய்த்துணரவில்லை.<verse eID="Wis.2.22" n="22"/></l>
             <l level="0"><verse osisID="Wis.2.23" sID="Wis.2.23" n="23"/><note type="crossReference" osisRef="Wis.2.23" osisID="Wis.2.23!crossReference"><reference osisRef="Gen.1.26-Gen.1.27">தொநூ 1:26-27</reference></note>கடவுள் மனிதர்களை</l>
             <l level="1"> அழியாமைக்கென்று படைத்தார்;</l>
-            <l level="0"> தம் சொந்த இயல்பின் சாயலில்*</l>
+            <l level="0"> தம் சொந்த இயல்பின் சாயலில்<note osisRef="Wis.2.23" osisID="Wis.2.23!note"> ‘நித்தியத்தின் சாயல்’ என சில பழைய சுவடிகளில் உள்ளது.</note></l>
             <l level="1"> அவர்களை உருவாக்கினார்.<verse eID="Wis.2.23" n="23"/></l>
             <l level="0"><verse osisID="Wis.2.24" sID="Wis.2.24" n="24"/><note type="crossReference" osisRef="Wis.2.24" osisID="Wis.2.24!crossReference"><reference osisRef="Gen.3.13">தொநூ 3:13</reference></note>ஆனால் அலகையின் பொறாமையால்</l>
             <l level="1"> சாவு உலகில் நுழைந்தது.</l>
@@ -287,7 +287,7 @@
             <l level="0"> இறவாமையில் அவர்கள்</l>
             <l level="1"> உறுதியான நம்பிக்கை</l>
             <l level="0"> கொண்டுள்ளார்கள்.<verse eID="Wis.3.4" n="4"/></l>
-            <l level="0"><verse osisID="Wis.3.5" sID="Wis.3.5" n="5"/><note type="crossReference" osisRef="Wis.3.5" osisID="Wis.3.5!crossReference"><reference osisRef="2Cor.4.17">2 கொரி 4:17</reference>; <reference osisRef="Rom.8.18">உரோ 8:18</reference></note>சிறிதளவு அவர்கள்</l>
+            <l level="0"><verse osisID="Wis.3.5" sID="Wis.3.5" n="5"/><note type="crossReference" osisRef="Wis.3.5-Wis.3.6" osisID="Wis.3.5-Wis.3.6!crossReference">3:5-6 ⇒ <reference osisRef="2Cor.4.17">2 கொரி 4:17</reference>; <reference osisRef="Rom.8.18">உரோ 8:18</reference></note>சிறிதளவு அவர்கள்</l>
             <l level="1"> க‌ண்டித்துத் திருத்தப்பட்டபின்,</l>
             <l level="0"> பேரளவு கைம்மாறு பெறுவார்கள்.</l>
             <l level="1"> கடவுள் அவர்களைச்</l>
@@ -311,9 +311,9 @@
             <l level="0"><verse osisID="Wis.3.9" sID="Wis.3.9" n="9"/>அவரை நம்புவோர்</l>
             <l level="1"> உண்மையை அறிந்துகொள்வர்;</l>
             <l level="0"> அன்பில் நம்பிக்கை கொள்வோர்</l>
-            <l level="1"> அவரோடு நிலைத்திருப்பர்.*</l>
+            <l level="1"> அவரோடு நிலைத்திருப்பர்.<note osisRef="Wis.3.9" osisID="Wis.3.9!note"> ‘அவர் மீது நம்பிக்கைக் கொள்வோர் அவரோடு அன்பில் நிலைத்திருப்பர்’ என்றும் மொழிபெயர்க்கலாம்.</note></l>
             <l level="0"> அருளும் இரக்கமும் அவர்</l>
-            <l level="1"> தேர்ந்து கொண்டோர் மீது இருக்கும்.**<verse eID="Wis.3.9" n="9"/></l>
+            <l level="1"> தேர்ந்து கொண்டோர் மீது இருக்கும்.<note osisRef="Wis.3.9" osisID="Wis.3.9!note"> ‘தம் தூயவர்களைச் சந்தித்து மீட்கிறார்’ என்னும் பாடம் சில சுவடிகளில் சேர்க்கப்பட்டுள்ளது. (காண் 4:15).</note><verse eID="Wis.3.9" n="9"/></l>
             <l level="0"><verse osisID="Wis.3.10" sID="Wis.3.10" n="10"/>ஆனால் இறைப்பற்றில்லாதவர்கள்</l>
             <l level="1"> தங்கள் எண்ணங்களுக்கு ஏற்ப</l>
             <l level="0"> தண்டிக்கப்படுவார்கள்;</l>
@@ -611,7 +611,7 @@
             <l level="0"> அவர் தம் வலக்கையால்</l>
             <l level="1"> அவர்களை அரவணைப்பார்;</l>
             <l level="0"> தம் புயத்தால் அவர்களைப் பாதுகாப்பார்.<verse eID="Wis.5.16" n="16"/></l>
-            <l level="0"><verse osisID="Wis.5.17" sID="Wis.5.17" n="17"/><note type="crossReference" osisRef="Wis.5.17" osisID="Wis.5.17!crossReference"><reference osisRef="Isa.59.19">எசா 59:19</reference>; <reference osisRef="Eph.6.14-Eph.6.17">எபே 6:14-17</reference></note>ஆர்வம் என்னும் படைக்கலத்தால்</l>
+            <l level="0"><verse osisID="Wis.5.17" sID="Wis.5.17" n="17"/><note type="crossReference" osisRef="Wis.5.17-Wis.5.19" osisID="Wis.5.17-Wis.5.19!crossReference">5:17-19 ⇒ <reference osisRef="Isa.59.19">எசா 59:19</reference>; <reference osisRef="Eph.6.14-Eph.6.17">எபே 6:14-17</reference></note>ஆர்வம் என்னும் படைக்கலத்தால்</l>
             <l level="1"> அவர் தம்மை முழுதும்</l>
             <l level="0"> மூடிக்கொள்வார்;</l>
             <l level="1"> தம் எதிரிகளைப் பழிவாங்கப்</l>
@@ -682,7 +682,7 @@
             <l level="1"> கடும் தீர்ப்பு வழங்குவார்.<verse eID="Wis.6.5" n="5"/></l>
             <l level="0"><verse osisID="Wis.6.6" sID="Wis.6.6" n="6"/>எளியோர்க்கு இரக்கங்காட்டி</l>
             <l level="1"> அவர்களைப் பொறுத்தருள்வார்;</l>
-            <l level="0"> வலியோரை வன்மையாகத் தண்டிப்பார்.*<verse eID="Wis.6.6" n="6"/></l>
+            <l level="0"> வலியோரை வன்மையாகத் தண்டிப்பார்.<note osisRef="Wis.6.6" osisID="Wis.6.6!note"> ‘பரிசோதிப்பார்.’ என்றும் மொழிபெயர்க்கலாம்.</note><verse eID="Wis.6.6" n="6"/></l>
             <l level="0"><verse osisID="Wis.6.7" sID="Wis.6.7" n="7"/><note type="crossReference" osisRef="Wis.6.7" osisID="Wis.6.7!crossReference"><reference osisRef="Job.34.19">யோபு 34:19</reference>; <reference osisRef="Sir.35.12">சீஞா 35:12</reference></note>அனைத்திற்கும் ஆண்டவர்</l>
             <l level="1"> யாருக்கும் அஞ்சி நடுங்க மாட்டார்;</l>
             <l level="0"> உயர்ந்தோர்க்கென்று</l>
@@ -883,7 +883,7 @@
             <l level="1"> விண்மீன்களின் நிலைக்களங்கள்,<verse eID="Wis.7.19" n="19"/></l>
             <l level="0"><verse osisID="Wis.7.20" sID="Wis.7.20" n="20"/>உயிரினங்களின் இயல்பு,</l>
             <l level="1"> காட்டு விலங்குகளின் சீற்றம்,</l>
-            <l level="0"> காற்று வகைகளின் வலிமை,*</l>
+            <l level="0"> காற்று வகைகளின் வலிமை,<note osisRef="Wis.7.20" osisID="Wis.7.20!note"> ‘ஆவிகளின் வலிமை’ என்றும் மொழிபெயர்க்கலாம்.</note></l>
             <l level="1"> மனிதர்களின் எண்ணங்கள்,</l>
             <l level="0"> பல்வேறு செடிவகைகள்,</l>
             <l level="1"> வேர்களின் ஆற்றல்,<verse eID="Wis.7.20" n="20"/></l>
@@ -898,7 +898,7 @@
         <p>
           <title type="sub">ஞானத்தின் இயல்பும் மேன்மையும்</title>
           <lg>
-            <l level="0"><verse osisID="Wis.7.22" sID="Wis.7.22" n="22"/><note type="crossReference" osisRef="Wis.7.22" osisID="Wis.7.22!crossReference"><reference osisRef="Prov.8.22-Prov.8.31">நீமொ 8:22-31</reference>; <reference osisRef="Sir.24.1-Sir.24.22">சீஞா 24:1-22</reference></note>ஞானம் — ஆற்றல் கொண்டது.</l>
+            <l level="0"><verse osisID="Wis.7.22" sID="Wis.7.22" n="22"/><note type="crossReference" osisRef="Wis.7.22-Wis.8.1" osisID="Wis.7.22-Wis.8.1!crossReference">7:22-8:1 ⇒ <reference osisRef="Prov.8.22-Prov.8.31">நீமொ 8:22-31</reference>; <reference osisRef="Sir.24.1-Sir.24.22">சீஞா 24:1-22</reference></note>ஞானம் — ஆற்றல் கொண்டது.</l>
             <l level="1"> அவ்வாற்றல் அறிவுடையது;</l>
             <l level="0"> தூய்மையானது; தனித்தன்மை வாய்ந்தது;</l>
             <l level="1"> பலவகைப்பட்டது; நுண்மையானது;</l>
@@ -1103,7 +1103,7 @@
         <p>
           <title type="sub">ஞானம் அருளும்படி மன்றாட்டு</title>
           <lg>
-            <l level="0"><verse osisID="Wis.9.1" sID="Wis.9.1" n="1"/><note type="crossReference" osisRef="Wis.9.1" osisID="Wis.9.1!crossReference"><reference osisRef="1Kgs.3.6-1Kgs.3.9">1 அர 3:6-9</reference>; <reference osisRef="Wis.7.7">சாஞா 7:7</reference></note>“மூதாதையரின் கடவுளே,</l>
+            <l level="0"><verse osisID="Wis.9.1" sID="Wis.9.1" n="1"/><note type="crossReference" osisRef="Wis.9.1-Wis.9.18" osisID="Wis.9.1-Wis.9.18!crossReference">9:1-18 ⇒ <reference osisRef="1Kgs.3.6-1Kgs.3.9">1 அர 3:6-9</reference>; <reference osisRef="Wis.7.7">சாஞா 7:7</reference></note>“மூதாதையரின் கடவுளே,</l>
             <l level="1"> இரக்கத்தின் ஆண்டவரே,</l>
             <l level="0"> நீர் எல்லாவற்றையும்</l>
             <l level="1"> உமது சொல்லால் உண்டாக்கினீர்.<verse eID="Wis.9.1" n="1"/></l>
@@ -1214,7 +1214,7 @@
           <title type="sub">3. மீட்பு வரலாற்றில் ஞானம்</title>
           <title type="sub">ஆதாமிலிருந்து மோசேவரை</title>
           <lg>
-            <l level="0"><verse osisID="Wis.10.1" sID="Wis.10.1" n="1"/><note type="crossReference" osisRef="Wis.10.1" osisID="Wis.10.1!crossReference"><reference osisRef="Gen.1.26-Gen.1.28">தொநூ 1:26-28</reference></note>உலகின் முதல் தந்தை தனிமையாகப்</l>
+            <l level="0"><verse osisID="Wis.10.1" sID="Wis.10.1" n="1"/><note type="crossReference" osisRef="Wis.10.1-Wis.10.2" osisID="Wis.10.1-Wis.10.2!crossReference">10:1-2 ⇒ <reference osisRef="Gen.1.26-Gen.1.28">தொநூ 1:26-28</reference></note>உலகின் முதல் தந்தை தனிமையாகப்</l>
             <l level="1"> படைக்கப்பட்டபொழுது ஞானம்</l>
             <l level="0"> அவரைப் பேணிக் காத்தது;</l>
             <l level="1"> அவருடைய குற்றங்களிலிருந்து</l>
@@ -1243,7 +1243,7 @@
             <l level="1"> தம் பிள்ளைபால் கொண்டிருந்த</l>
             <l level="0"> பற்றை மேற்கொள்ள</l>
             <l level="1"> அவருக்குத் துணிவை அளித்தது.<verse eID="Wis.10.5" n="5"/></l>
-            <l level="0"><verse osisID="Wis.10.6" sID="Wis.10.6" n="6"/><note type="crossReference" osisRef="Wis.10.6" osisID="Wis.10.6!crossReference"><reference osisRef="Gen.19.1-Gen.19.29">தொநூ 19:1-29</reference></note>இறைப்பற்றில்லாதவர்கள் அழிந்தபோது</l>
+            <l level="0"><verse osisID="Wis.10.6" sID="Wis.10.6" n="6"/><note type="crossReference" osisRef="Wis.10.6-Wis.10.9" osisID="Wis.10.6-Wis.10.9!crossReference">10:6-9 ⇒ <reference osisRef="Gen.19.1-Gen.19.29">தொநூ 19:1-29</reference></note>இறைப்பற்றில்லாதவர்கள் அழிந்தபோது</l>
             <l level="1"> ஞானம் நீதிமானைக் காப்பாற்றியது.</l>
             <l level="0"> ஐந்து நகர்கள்மீது</l>
             <l level="1"> இறங்கி வந்த நெருப்பிலிருந்து</l>
@@ -1270,12 +1270,12 @@
             <l level="0"><verse osisID="Wis.10.9" sID="Wis.10.9" n="9"/>ஆனால் தனக்குப் பணிபுரிந்தவர்களை</l>
             <l level="1"> ஞானம் துன்ப துயரங்களிலிருந்து</l>
             <l level="0"> விடுவித்தது.<verse eID="Wis.10.9" n="9"/></l>
-            <l level="0"><verse osisID="Wis.10.10" sID="Wis.10.10" n="10"/><note type="crossReference" osisRef="Wis.10.10" osisID="Wis.10.10!crossReference"><reference osisRef="Gen.27.42-Gen.27.46">தொநூ 27:42-46</reference>; <reference osisRef="Gen.28.10-Gen.28.22">28:10-22</reference>; <reference osisRef="Gen.30.43">30:43</reference>; <reference osisRef="Gen.32.24-Gen.32.30">32:24-30</reference></note>தம் சகோதரனின் சினத்துக்குத்</l>
+            <l level="0"><verse osisID="Wis.10.10" sID="Wis.10.10" n="10"/><note type="crossReference" osisRef="Wis.10.10-Wis.10.12" osisID="Wis.10.10-Wis.10.12!crossReference">10:10-12 ⇒ <reference osisRef="Gen.27.42-Gen.27.46">தொநூ 27:42-46</reference>; <reference osisRef="Gen.28.10-Gen.28.22">28:10-22</reference>; <reference osisRef="Gen.30.43">30:43</reference>; <reference osisRef="Gen.32.24-Gen.32.30">32:24-30</reference></note>தம் சகோதரனின் சினத்துக்குத்</l>
             <l level="1"> தப்பியோடிய நீதிமான் ஒருவரை</l>
             <l level="0"> ஞானம் நேர்மையான வழியில்</l>
             <l level="1"> நடத்திச் சென்றது;</l>
             <l level="0"> இறையரசை அவருக்குக் காட்டியது;</l>
-            <l level="1"> வானதூதர்பற்றிய* அறிவை</l>
+            <l level="1"> வானதூதர்பற்றிய<note osisRef="Wis.10.10" osisID="Wis.10.10!note"> ‘தூயவை’ (காண். தொநூ 28:10-15) என்றும் ‘திருவிடம்’ (காண். தொநூ 31:13) என்றும் பொருள் கொள்ளலாம்.</note> அறிவை</l>
             <l level="0"> அவருக்குக் கொடுத்தது;</l>
             <l level="1"> உழைப்பில் அவர்</l>
             <l level="0"> வளமையுறச் செய்தது;</l>
@@ -1294,7 +1294,7 @@
             <l level="0"> இவ்வாறு இறைப்பற்று</l>
             <l level="1"> எல்லாவற்றையும்விட</l>
             <l level="0"> வலிமை மிக்கது என்று அவர் உணரச் செய்தது.<verse eID="Wis.10.12" n="12"/></l>
-            <l level="0"><verse osisID="Wis.10.13" sID="Wis.10.13" n="13"/><note type="crossReference" osisRef="Wis.10.13" osisID="Wis.10.13!crossReference"><reference osisRef="Gen.37.12-Gen.37.36">தொநூ 37:12-36</reference>; <reference osisRef="Gen.39.1-Gen.39.23">39:1-23</reference>; <reference osisRef="Gen.41.37-Gen.41.44">41:37-44</reference></note>நீதிமான் ஒருவர்</l>
+            <l level="0"><verse osisID="Wis.10.13" sID="Wis.10.13" n="13"/><note type="crossReference" osisRef="Wis.10.13-Wis.10.14" osisID="Wis.10.13-Wis.10.14!crossReference">10:13-14 ⇒ <reference osisRef="Gen.37.12-Gen.37.36">தொநூ 37:12-36</reference>; <reference osisRef="Gen.39.1-Gen.39.23">39:1-23</reference>; <reference osisRef="Gen.41.37-Gen.41.44">41:37-44</reference></note>நீதிமான் ஒருவர்</l>
             <l level="1"> விலைக்கு விற்கப்பட்டபொழுது</l>
             <l level="0"> ஞானம் அவரைக் கைவிடவில்லை;</l>
             <l level="1"> பாவத்திலிருந்து அவரை விடுவித்தது.<verse eID="Wis.10.13" n="13"/></l>
@@ -1314,7 +1314,7 @@
         <p>
           <title type="sub">விடுதலைப் பயணம்</title>
           <lg>
-            <l level="0"><verse osisID="Wis.10.15" sID="Wis.10.15" n="15"/><note type="crossReference" osisRef="Wis.10.15" osisID="Wis.10.15!crossReference"><reference osisRef="Exod.1.1-Exod.15.21">விப 1:1-15:21</reference></note>ஒடுக்கிய மக்களினத்தாரிடமிருந்து</l>
+            <l level="0"><verse osisID="Wis.10.15" sID="Wis.10.15" n="15"/><note type="crossReference" osisRef="Wis.10.15-Wis.10.21" osisID="Wis.10.15-Wis.10.21!crossReference">10:15-21 ⇒ <reference osisRef="Exod.1.1-Exod.15.21">விப 1:1-15:21</reference></note>ஒடுக்கிய மக்களினத்தாரிடமிருந்து</l>
             <l level="1"> தூய மக்களையும்</l>
             <l level="0"> மாசற்ற வழி மரபினரையும்</l>
             <l level="1"> ஞானம் விடுவித்தது.<verse eID="Wis.10.15" n="15"/></l>
@@ -1358,7 +1358,7 @@
       <chapter osisID="Wis.11">
         <p>
           <lg>
-            <l level="0"><verse osisID="Wis.11.1" sID="Wis.11.1" n="1"/><note type="crossReference" osisRef="Wis.11.1" osisID="Wis.11.1!crossReference"><reference osisRef="Exod.15.22-Exod.27.16">விப 15:22-27:16</reference></note>தூய இறைவாக்கினர்</l>
+            <l level="0"><verse osisID="Wis.11.1" sID="Wis.11.1" n="1"/><note type="crossReference" osisRef="Wis.11.1-Wis.11.5" osisID="Wis.11.1-Wis.11.5!crossReference">11:1-5 ⇒ <reference osisRef="Exod.15.22-Exod.27.16">விப 15:22-27:16</reference></note>தூய இறைவாக்கினர்</l>
             <l level="1"> ஒருவரின் வாயிலாக</l>
             <l level="0"> இஸ்ரயேலர்களுடைய செயல்களை</l>
             <l level="1"> ஞானம் சிறப்புறச் செய்தது.<verse eID="Wis.11.1" n="1"/></l>
@@ -1392,7 +1392,7 @@
             <l level="0"> நன்மை அடைந்தார்கள்.<verse eID="Wis.11.5" n="5"/></l>
           </lg>
           <verse osisID="Wis.11.6" sID="Wis.11.6" n="6-7"/>
-          <note type="crossReference" osisRef="Wis.11.6" osisID="Wis.11.6!crossReference"><reference osisRef="Exod.1.9-Exod.1.19">விப 1:9-19</reference>; <reference osisRef="Exod.7.19-Exod.7.20">7:19-20</reference></note>
+          <note type="crossReference" osisRef="Wis.11.6-Wis.11.7" osisID="Wis.11.6-Wis.11.7!crossReference">11:6-7 ⇒ <reference osisRef="Exod.1.9-Exod.1.19">விப 1:9-19</reference>; <reference osisRef="Exod.7.19-Exod.7.20">7:19-20</reference></note>
           <note osisRef="Wis.11.6" osisID="Wis.11.6" n="Ver. 6-7">வசனங்கள் 6-7</note>
           <lg>
             <l level="0">குழந்தைகளைக் கொல்லவேண்டும்</l>
@@ -1405,7 +1405,7 @@
             <l level="1"> இஸ்ரயேலருக்கோ</l>
             <l level="0"> எதிர்பாரா வகையில்</l>
             <l level="1"> மிகுதியான தண்ணீர் வழங்கினீர்.<verse eID="Wis.11.6" n="6-7"/></l>
-            <l level="0"><verse osisID="Wis.11.8" sID="Wis.11.8" n="8"/><note type="crossReference" osisRef="Wis.11.8" osisID="Wis.11.8!crossReference"><reference osisRef="Num.20.7-Num.20.13">எண் 20:7-13</reference></note>அவர்களுடைய பகைவரை</l>
+            <l level="0"><verse osisID="Wis.11.8" sID="Wis.11.8" n="8"/><note type="crossReference" osisRef="Wis.11.8-Wis.11.14" osisID="Wis.11.8-Wis.11.14!crossReference">11:8-14 ⇒ <reference osisRef="Num.20.7-Num.20.13">எண் 20:7-13</reference></note>அவர்களுடைய பகைவரை</l>
             <l level="1"> எவ்வாறு தண்டித்தீர் என்பதை</l>
             <l level="0"> அவ்வேளையில் அவர்களை</l>
             <l level="1"> வாட்டிய தாகத்தால் காட்டினீர்.<verse eID="Wis.11.8" n="8"/></l>
@@ -1557,7 +1557,7 @@
             <l level="1"> அவர்கள் தீமையிலிருந்து விடுபடவும்</l>
             <l level="0"> உம்மேல் நம்பிக்கை கொள்ளவுமே</l>
             <l level="1"> இவ்வாறு செய்கின்றீர்.<verse eID="Wis.12.2" n="2"/></l>
-            <l level="0"><verse osisID="Wis.12.3" sID="Wis.12.3" n="3"/><note type="crossReference" osisRef="Wis.12.3" osisID="Wis.12.3!crossReference"><reference osisRef="Deut.12.31">இச 12:31</reference>; <reference osisRef="Deut.18.9-Deut.18.13">18:9-13</reference></note>உமது திருநாட்டில்</l>
+            <l level="0"><verse osisID="Wis.12.3" sID="Wis.12.3" n="3"/><note type="crossReference" osisRef="Wis.12.3-Wis.12.7" osisID="Wis.12.3-Wis.12.7!crossReference">12:3-7 ⇒ <reference osisRef="Deut.12.31">இச 12:31</reference>; <reference osisRef="Deut.18.9-Deut.18.13">18:9-13</reference></note>உமது திருநாட்டில்</l>
             <l level="1"> பண்டுதொட்டே வாழ்ந்து</l>
             <l level="0"> வந்தோரின்<verse eID="Wis.12.3" n="3"/></l>
             <l level="0"><verse osisID="Wis.12.4" sID="Wis.12.4" n="4"/>அருவருப்புக்குரிய நடத்தை,</l>
@@ -1732,7 +1732,7 @@
         <p>
           <title type="sub">இயற்கை வழிபாடு</title>
           <lg>
-            <l level="0"><verse osisID="Wis.13.1" sID="Wis.13.1" n="1"/><note type="crossReference" osisRef="Wis.13.1" osisID="Wis.13.1!crossReference"><reference osisRef="Rom.1.20-Rom.1.32">உரோ 1:20-32</reference></note>கடவுளை அறியாத மனிதர்</l>
+            <l level="0"><verse osisID="Wis.13.1" sID="Wis.13.1" n="1"/><note type="crossReference" osisRef="Wis.13.1-Wis.13.9" osisID="Wis.13.1-Wis.13.9!crossReference">13:1-9 ⇒ <reference osisRef="Rom.1.20-Rom.1.32">உரோ 1:20-32</reference></note>கடவுளை அறியாத மனிதர்</l>
             <l level="1"> அனைவரும் இயல்பிலேயே</l>
             <l level="0"> அறிவிலிகள் ஆனார்கள்.</l>
             <l level="1"> கண்ணுக்குப் புலப்படும்</l>
@@ -1799,7 +1799,7 @@
         <p>
           <title type="sub">சிலைவழிபாடு</title>
           <lg>
-            <l level="0"><verse osisID="Wis.13.10" sID="Wis.13.10" n="10"/><note type="crossReference" osisRef="Wis.13.10" osisID="Wis.13.10!crossReference"><reference osisRef="Isa.44.9-Isa.44.20">எசா 44:9-20</reference>; <reference osisRef="Jer.10.1-Jer.10.16">எரே 10:1-16</reference>; <reference osisRef="Bar.6.3-Bar.6.72">பாரூ 6:3-72</reference></note>ஆனால் பொன், வெள்ளியால்</l>
+            <l level="0"><verse osisID="Wis.13.10" sID="Wis.13.10" n="10"/><note type="crossReference" osisRef="Wis.13.10-Wis.14.31" osisID="Wis.13.10-Wis.14.31!crossReference">13:10-14:31 ⇒ <reference osisRef="Isa.44.9-Isa.44.20">எசா 44:9-20</reference>; <reference osisRef="Jer.10.1-Jer.10.16">எரே 10:1-16</reference>; <reference osisRef="Bar.6.3-Bar.6.72">பாரூ 6:3-72</reference></note>ஆனால் பொன், வெள்ளியால்</l>
             <l level="1"> திறமையாக உருவாக்கப்பட்டவையும்,</l>
             <l level="0"> விலங்குகளின் சாயலாய்ச்</l>
             <l level="1"> செய்யப்பட்டவையுமான</l>
@@ -1949,7 +1949,7 @@
           <title type="sub">சிலைவழிபாட்டின் தொடக்கம்</title>
           <lg>
             <l level="0"><verse osisID="Wis.14.12" sID="Wis.14.12" n="12"/>சிலைகள் செய்யத் திட்டமிட்டதே</l>
-            <l level="1"> விபசாரத்தின்* தொடக்கம்.</l>
+            <l level="1"> விபசாரத்தின்<note osisRef="Wis.14.12" osisID="Wis.14.12!note"> உடன்படிக்கை வழியாக இறைவனுக்கும் இஸ்ரயேலுக்கும் இடையே மணமகன் - மணமகள் உறவு மலர்ந்தது. இதனால் இஸ்ரயேல் தன் இறைவனைக் கைவிட்டு வேற்றுத் தெய்வங்களை நாடிச் சென்றது விபசாரமாகக் கருதப்பட்டது.</note> தொடக்கம்.</l>
             <l level="0"> அவற்றைக் கண்டுபிடித்ததே</l>
             <l level="1"> வாழ்வின் அழிவு.<verse eID="Wis.14.12" n="12"/></l>
             <l level="0"><verse osisID="Wis.14.13" sID="Wis.14.13" n="13"/>அவை தொடக்கமுதல்</l>
@@ -2304,7 +2304,7 @@
             <l level="1"> நச்சுப் பாம்புகளின் கடியால்</l>
             <l level="0"> அவர்கள் அழிந்துகொண்டிருந்தபோது,</l>
             <l level="1"> உமது சினம் இறுதிவரை நீடிக்கவில்லை.<verse eID="Wis.16.5" n="5"/></l>
-            <l level="0"><verse osisID="Wis.16.6" sID="Wis.16.6" n="6"/><note type="crossReference" osisRef="Wis.16.6" osisID="Wis.16.6!crossReference"><reference osisRef="Num.21.6-Num.21.9">எண் 21:6-9</reference>; <reference osisRef="John.3.14-John.3.15">யோவா 3:14-15</reference></note>எச்சரிக்கப்பட வேண்டிச்</l>
+            <l level="0"><verse osisID="Wis.16.6" sID="Wis.16.6" n="6"/><note type="crossReference" osisRef="Wis.16.6-Wis.16.7" osisID="Wis.16.6-Wis.16.7!crossReference">16:6-7 ⇒ <reference osisRef="Num.21.6-Num.21.9">எண் 21:6-9</reference>; <reference osisRef="John.3.14-John.3.15">யோவா 3:14-15</reference></note>எச்சரிக்கப்பட வேண்டிச்</l>
             <l level="1"> சிறிது காலம் அவர்கள்</l>
             <l level="0"> துன்பத்திற்கு உள்ளானார்கள்.</l>
             <l level="1"> உமது திருச்சட்டத்தின்</l>
@@ -2609,7 +2609,7 @@
       <chapter osisID="Wis.18">
         <p>
           <lg>
-            <l level="0"><verse osisID="Wis.18.1" sID="Wis.18.1" n="1"/><note type="crossReference" osisRef="Wis.18.1" osisID="Wis.18.1!crossReference"><reference osisRef="Exod.13.17-Exod.13.22">விப 13:17-22</reference></note>உம் தூயவர்களுக்கோ</l>
+            <l level="0"><verse osisID="Wis.18.1" sID="Wis.18.1" n="1"/><note type="crossReference" osisRef="Wis.18.1-Wis.18.4" osisID="Wis.18.1-Wis.18.4!crossReference">18:1-4 ⇒ <reference osisRef="Exod.13.17-Exod.13.22">விப 13:17-22</reference></note>உம் தூயவர்களுக்கோ</l>
             <l level="1"> பேரொளி இருந்தது.</l>
             <l level="0"> அவர்களுடைய குரலை</l>
             <l level="1"> எதிரிகள் கேட்டார்கள்.</l>
@@ -2623,7 +2623,7 @@
             <l level="0"> செய்யாததால், எகிப்தியர்கள்</l>
             <l level="1"> நன்றியுணர்வு கொண்டிருந்தார்கள்;</l>
             <l level="0"> தங்களது பழைய பகைமைக்கு</l>
-            <l level="1"> மன்னிப்புக் கேட்டார்கள்.*<verse eID="Wis.18.2" n="2"/></l>
+            <l level="1"> மன்னிப்புக் கேட்டார்கள்.<note osisRef="Wis.18.2" osisID="Wis.18.2!note"> ‘தங்களை விட்டு விலகும்படி கேட்டுக் கொண்டார்கள்.’ என்றும் மொழிபெயர்க்கலாம்.</note><verse eID="Wis.18.2" n="2"/></l>
             <l level="0"><verse osisID="Wis.18.3" sID="Wis.18.3" n="3"/>இருளுக்கு மாறான</l>
             <l level="1"> ஒளிப்பிழம்பாம் நெருப்புத் தூணை</l>
             <l level="0"> உம் மக்களுக்குக் கொடுத்தீர்.</l>
@@ -2744,7 +2744,7 @@
             <l level="0"> அவர்களைத் தொல்லைப்படுத்திய</l>
             <l level="1"> கனவுகள் அதை</l>
             <l level="0"> முன்னறிவித்திருந்தன.<verse eID="Wis.18.19" n="19"/></l>
-            <l level="0"><verse osisID="Wis.18.20" sID="Wis.18.20" n="20"/><note type="crossReference" osisRef="Wis.18.20" osisID="Wis.18.20!crossReference"><reference osisRef="Num.16.41-Num.16.50">எண் 16:41-50</reference></note>நீதிமான்களும் இறப்பை</l>
+            <l level="0"><verse osisID="Wis.18.20" sID="Wis.18.20" n="20"/><note type="crossReference" osisRef="Wis.18.20-Wis.18.25" osisID="Wis.18.20-Wis.18.25!crossReference">18:20-25 ⇒ <reference osisRef="Num.16.41-Num.16.50">எண் 16:41-50</reference></note>நீதிமான்களும் இறப்பை</l>
             <l level="1"> நுகர நேர்ந்தது.</l>
             <l level="0"> பாலைநிலத்தில் இருந்த</l>
             <l level="1"> மக்கள் கூட்டம்</l>
@@ -2801,7 +2801,7 @@
         <p>
           <title type="sub">செங்கடலால் அழிவும் மீட்பும்</title>
           <lg>
-            <l level="0"><verse osisID="Wis.19.1" sID="Wis.19.1" n="1"/><note type="crossReference" osisRef="Wis.19.1" osisID="Wis.19.1!crossReference"><reference osisRef="Exod.14.1-Exod.14.4">விப 14:1-4</reference></note>இறைப்பற்றில்லாதவர்களைக்</l>
+            <l level="0"><verse osisID="Wis.19.1" sID="Wis.19.1" n="1"/><note type="crossReference" osisRef="Wis.19.1-Wis.19.9" osisID="Wis.19.1-Wis.19.9!crossReference">19:1-9 ⇒ <reference osisRef="Exod.14.1-Exod.14.4">விப 14:1-4</reference></note>இறைப்பற்றில்லாதவர்களைக்</l>
             <l level="1"> கடவுளின் சீற்றம் இரக்கமின்றி</l>
             <l level="0"> இறுதிவரை தாக்கியது.</l>
             <l level="1"> ஏனெனில் அவர்கள்</l>
@@ -2874,8 +2874,8 @@
             <l level="0"> நிகழ்ந்தவற்றை இன்னும் நினைவு</l>
             <l level="1"> கூர்ந்தார்கள்;</l>
             <l level="0"> விலங்குகளுக்கு மாறாக நிலம்</l>
-            <l level="1"> கொசுக்களைத் தோற்றுவித்ததையும்</l>
-            <l level="0"> , மீன்களுக்கு மாறாகத் தவளைக்</l>
+            <l level="1"> கொசுக்களைத் தோற்றுவித்ததையும்,</l>
+            <l level="0"> மீன்களுக்கு மாறாகத் தவளைக்</l>
             <l level="1"> கூட்டங்களை ஆறு உமிழ்ந்ததையும்</l>
             <l level="0"> அவர்கள் இன்னும் நினைவில்</l>
             <l level="1"> வைத்திருந்தார்கள்.<verse eID="Wis.19.10" n="10"/></l>
